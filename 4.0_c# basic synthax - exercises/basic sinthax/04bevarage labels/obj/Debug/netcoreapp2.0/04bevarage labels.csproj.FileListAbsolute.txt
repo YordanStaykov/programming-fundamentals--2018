@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\04bevarage labels\bin\Debug\netcoreapp2.0\04bevarage labels.deps.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\04bevarage labels\bin\Debug\netcoreapp2.0\04bevarage labels.runtimeconfig.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\04bevarage labels\bin\Debug\netcoreapp2.0\04bevarage labels.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\04bevarage labels\bin\Debug\netcoreapp2.0\04bevarage labels.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\04bevarage labels\bin\Debug\netcoreapp2.0\04bevarage labels.pdb
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\04bevarage labels\obj\Debug\netcoreapp2.0\04bevarage labels.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\04bevarage labels\obj\Debug\netcoreapp2.0\04bevarage labels.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\04bevarage labels\obj\Debug\netcoreapp2.0\04bevarage labels.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\04bevarage labels\obj\Debug\netcoreapp2.0\04bevarage labels.AssemblyInfo.cs
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\04bevarage labels\obj\Debug\netcoreapp2.0\04bevarage labels.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\04bevarage labels\obj\Debug\netcoreapp2.0\04bevarage labels.pdb

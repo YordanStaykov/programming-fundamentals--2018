@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\03miles to kilometers\bin\Debug\netcoreapp2.0\03miles to kilometers.deps.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\03miles to kilometers\bin\Debug\netcoreapp2.0\03miles to kilometers.runtimeconfig.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\03miles to kilometers\bin\Debug\netcoreapp2.0\03miles to kilometers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\03miles to kilometers\bin\Debug\netcoreapp2.0\03miles to kilometers.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\03miles to kilometers\bin\Debug\netcoreapp2.0\03miles to kilometers.pdb
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\03miles to kilometers\obj\Debug\netcoreapp2.0\03miles to kilometers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\03miles to kilometers\obj\Debug\netcoreapp2.0\03miles to kilometers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\03miles to kilometers\obj\Debug\netcoreapp2.0\03miles to kilometers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\03miles to kilometers\obj\Debug\netcoreapp2.0\03miles to kilometers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\03miles to kilometers\obj\Debug\netcoreapp2.0\03miles to kilometers.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\03miles to kilometers\obj\Debug\netcoreapp2.0\03miles to kilometers.pdb

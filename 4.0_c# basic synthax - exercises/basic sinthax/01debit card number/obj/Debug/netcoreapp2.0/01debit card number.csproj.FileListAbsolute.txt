@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\01debit card number\bin\Debug\netcoreapp2.0\01debit card number.deps.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\01debit card number\bin\Debug\netcoreapp2.0\01debit card number.runtimeconfig.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\01debit card number\bin\Debug\netcoreapp2.0\01debit card number.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\01debit card number\bin\Debug\netcoreapp2.0\01debit card number.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\01debit card number\bin\Debug\netcoreapp2.0\01debit card number.pdb
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\01debit card number\obj\Debug\netcoreapp2.0\01debit card number.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\01debit card number\obj\Debug\netcoreapp2.0\01debit card number.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\01debit card number\obj\Debug\netcoreapp2.0\01debit card number.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\01debit card number\obj\Debug\netcoreapp2.0\01debit card number.AssemblyInfo.cs
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\01debit card number\obj\Debug\netcoreapp2.0\01debit card number.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\01debit card number\obj\Debug\netcoreapp2.0\01debit card number.pdb

@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\02rectangle area\bin\Debug\netcoreapp2.0\02rectangle area.deps.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\02rectangle area\bin\Debug\netcoreapp2.0\02rectangle area.runtimeconfig.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\02rectangle area\bin\Debug\netcoreapp2.0\02rectangle area.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\02rectangle area\bin\Debug\netcoreapp2.0\02rectangle area.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\02rectangle area\bin\Debug\netcoreapp2.0\02rectangle area.pdb
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\02rectangle area\obj\Debug\netcoreapp2.0\02rectangle area.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\02rectangle area\obj\Debug\netcoreapp2.0\02rectangle area.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\02rectangle area\obj\Debug\netcoreapp2.0\02rectangle area.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\02rectangle area\obj\Debug\netcoreapp2.0\02rectangle area.AssemblyInfo.cs
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\02rectangle area\obj\Debug\netcoreapp2.0\02rectangle area.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\basic synthax\02rectangle area\obj\Debug\netcoreapp2.0\02rectangle area.pdb
