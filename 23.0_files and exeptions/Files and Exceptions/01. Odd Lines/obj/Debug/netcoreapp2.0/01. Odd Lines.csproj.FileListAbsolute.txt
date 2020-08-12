@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\23.0_files and exeptions\Files and Exceptions\01. Odd Lines\bin\Debug\netcoreapp2.0\01. Odd Lines.deps.json
+D:\Code\TechModule January 2018\23.0_files and exeptions\Files and Exceptions\01. Odd Lines\bin\Debug\netcoreapp2.0\01. Odd Lines.runtimeconfig.json
+D:\Code\TechModule January 2018\23.0_files and exeptions\Files and Exceptions\01. Odd Lines\bin\Debug\netcoreapp2.0\01. Odd Lines.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\23.0_files and exeptions\Files and Exceptions\01. Odd Lines\bin\Debug\netcoreapp2.0\01. Odd Lines.dll
+D:\Code\TechModule January 2018\23.0_files and exeptions\Files and Exceptions\01. Odd Lines\bin\Debug\netcoreapp2.0\01. Odd Lines.pdb
+D:\Code\TechModule January 2018\23.0_files and exeptions\Files and Exceptions\01. Odd Lines\obj\Debug\netcoreapp2.0\01. Odd Lines.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\23.0_files and exeptions\Files and Exceptions\01. Odd Lines\obj\Debug\netcoreapp2.0\01. Odd Lines.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\23.0_files and exeptions\Files and Exceptions\01. Odd Lines\obj\Debug\netcoreapp2.0\01. Odd Lines.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\23.0_files and exeptions\Files and Exceptions\01. Odd Lines\obj\Debug\netcoreapp2.0\01. Odd Lines.AssemblyInfo.cs
+D:\Code\TechModule January 2018\23.0_files and exeptions\Files and Exceptions\01. Odd Lines\obj\Debug\netcoreapp2.0\01. Odd Lines.dll
+D:\Code\TechModule January 2018\23.0_files and exeptions\Files and Exceptions\01. Odd Lines\obj\Debug\netcoreapp2.0\01. Odd Lines.pdb

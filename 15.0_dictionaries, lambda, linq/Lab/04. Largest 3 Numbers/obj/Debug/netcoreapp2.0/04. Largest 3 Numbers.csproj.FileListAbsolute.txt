@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\04. Largest 3 Numbers\bin\Debug\netcoreapp2.0\04. Largest 3 Numbers.deps.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\04. Largest 3 Numbers\bin\Debug\netcoreapp2.0\04. Largest 3 Numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\04. Largest 3 Numbers\bin\Debug\netcoreapp2.0\04. Largest 3 Numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\04. Largest 3 Numbers\bin\Debug\netcoreapp2.0\04. Largest 3 Numbers.dll
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\04. Largest 3 Numbers\bin\Debug\netcoreapp2.0\04. Largest 3 Numbers.pdb
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\04. Largest 3 Numbers\obj\Debug\netcoreapp2.0\04. Largest 3 Numbers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\04. Largest 3 Numbers\obj\Debug\netcoreapp2.0\04. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\04. Largest 3 Numbers\obj\Debug\netcoreapp2.0\04. Largest 3 Numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\04. Largest 3 Numbers\obj\Debug\netcoreapp2.0\04. Largest 3 Numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\04. Largest 3 Numbers\obj\Debug\netcoreapp2.0\04. Largest 3 Numbers.dll
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\04. Largest 3 Numbers\obj\Debug\netcoreapp2.0\04. Largest 3 Numbers.pdb

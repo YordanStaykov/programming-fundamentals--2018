@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\11five different numbers\bin\Debug\netcoreapp2.0\11five different numbers.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\11five different numbers\bin\Debug\netcoreapp2.0\11five different numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\11five different numbers\bin\Debug\netcoreapp2.0\11five different numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\11five different numbers\bin\Debug\netcoreapp2.0\11five different numbers.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\11five different numbers\bin\Debug\netcoreapp2.0\11five different numbers.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\11five different numbers\obj\Debug\netcoreapp2.0\11five different numbers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\11five different numbers\obj\Debug\netcoreapp2.0\11five different numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\11five different numbers\obj\Debug\netcoreapp2.0\11five different numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\11five different numbers\obj\Debug\netcoreapp2.0\11five different numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\11five different numbers\obj\Debug\netcoreapp2.0\11five different numbers.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\11five different numbers\obj\Debug\netcoreapp2.0\11five different numbers.pdb

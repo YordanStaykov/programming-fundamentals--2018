@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.deps.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.runtimeconfig.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.pdb
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.AssemblyInfo.cs
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.pdb

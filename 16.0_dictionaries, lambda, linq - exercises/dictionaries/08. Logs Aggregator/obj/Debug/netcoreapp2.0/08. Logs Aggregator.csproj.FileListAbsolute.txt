@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\08. Logs Aggregator\bin\Debug\netcoreapp2.0\08. Logs Aggregator.deps.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\08. Logs Aggregator\bin\Debug\netcoreapp2.0\08. Logs Aggregator.runtimeconfig.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\08. Logs Aggregator\bin\Debug\netcoreapp2.0\08. Logs Aggregator.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\08. Logs Aggregator\bin\Debug\netcoreapp2.0\08. Logs Aggregator.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\08. Logs Aggregator\bin\Debug\netcoreapp2.0\08. Logs Aggregator.pdb
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\08. Logs Aggregator\obj\Debug\netcoreapp2.0\08. Logs Aggregator.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\08. Logs Aggregator\obj\Debug\netcoreapp2.0\08. Logs Aggregator.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\08. Logs Aggregator\obj\Debug\netcoreapp2.0\08. Logs Aggregator.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\08. Logs Aggregator\obj\Debug\netcoreapp2.0\08. Logs Aggregator.AssemblyInfo.cs
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\08. Logs Aggregator\obj\Debug\netcoreapp2.0\08. Logs Aggregator.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\08. Logs Aggregator\obj\Debug\netcoreapp2.0\08. Logs Aggregator.pdb

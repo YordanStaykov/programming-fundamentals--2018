@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\13game of numbers\bin\Debug\netcoreapp2.0\13game of numbers.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\13game of numbers\bin\Debug\netcoreapp2.0\13game of numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\13game of numbers\bin\Debug\netcoreapp2.0\13game of numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\13game of numbers\bin\Debug\netcoreapp2.0\13game of numbers.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\13game of numbers\bin\Debug\netcoreapp2.0\13game of numbers.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\13game of numbers\obj\Debug\netcoreapp2.0\13game of numbers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\13game of numbers\obj\Debug\netcoreapp2.0\13game of numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\13game of numbers\obj\Debug\netcoreapp2.0\13game of numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\13game of numbers\obj\Debug\netcoreapp2.0\13game of numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\13game of numbers\obj\Debug\netcoreapp2.0\13game of numbers.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\13game of numbers\obj\Debug\netcoreapp2.0\13game of numbers.pdb

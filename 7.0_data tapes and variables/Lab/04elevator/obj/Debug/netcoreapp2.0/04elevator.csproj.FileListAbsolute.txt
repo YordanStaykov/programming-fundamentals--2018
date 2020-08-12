@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\04elevator\bin\Debug\netcoreapp2.0\04elevator.deps.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\04elevator\bin\Debug\netcoreapp2.0\04elevator.runtimeconfig.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\04elevator\bin\Debug\netcoreapp2.0\04elevator.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\04elevator\bin\Debug\netcoreapp2.0\04elevator.dll
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\04elevator\bin\Debug\netcoreapp2.0\04elevator.pdb
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\04elevator\obj\Debug\netcoreapp2.0\04elevator.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\04elevator\obj\Debug\netcoreapp2.0\04elevator.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\04elevator\obj\Debug\netcoreapp2.0\04elevator.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\04elevator\obj\Debug\netcoreapp2.0\04elevator.AssemblyInfo.cs
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\04elevator\obj\Debug\netcoreapp2.0\04elevator.dll
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\04elevator\obj\Debug\netcoreapp2.0\04elevator.pdb

@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\11.0_arrays\Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.deps.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.runtimeconfig.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.dll
+D:\Code\TechModule January 2018\11.0_arrays\Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.pdb
+D:\Code\TechModule January 2018\11.0_arrays\Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\11.0_arrays\Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\11.0_arrays\Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\11.0_arrays\Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.AssemblyInfo.cs
+D:\Code\TechModule January 2018\11.0_arrays\Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.dll
+D:\Code\TechModule January 2018\11.0_arrays\Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.pdb

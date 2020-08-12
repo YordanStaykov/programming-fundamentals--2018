@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\01choose a drink\bin\Debug\netcoreapp2.0\01choose a drink.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\01choose a drink\bin\Debug\netcoreapp2.0\01choose a drink.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\01choose a drink\bin\Debug\netcoreapp2.0\01choose a drink.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\01choose a drink\bin\Debug\netcoreapp2.0\01choose a drink.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\01choose a drink\bin\Debug\netcoreapp2.0\01choose a drink.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\01choose a drink\obj\Debug\netcoreapp2.0\01choose a drink.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\01choose a drink\obj\Debug\netcoreapp2.0\01choose a drink.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\01choose a drink\obj\Debug\netcoreapp2.0\01choose a drink.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\01choose a drink\obj\Debug\netcoreapp2.0\01choose a drink.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\01choose a drink\obj\Debug\netcoreapp2.0\01choose a drink.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\01choose a drink\obj\Debug\netcoreapp2.0\01choose a drink.pdb

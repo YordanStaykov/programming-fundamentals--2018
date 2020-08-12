@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\04. Supermarket Database\bin\Debug\netcoreapp2.0\04. Supermarket Database.deps.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\04. Supermarket Database\bin\Debug\netcoreapp2.0\04. Supermarket Database.runtimeconfig.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\04. Supermarket Database\bin\Debug\netcoreapp2.0\04. Supermarket Database.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\04. Supermarket Database\bin\Debug\netcoreapp2.0\04. Supermarket Database.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\04. Supermarket Database\bin\Debug\netcoreapp2.0\04. Supermarket Database.pdb
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\04. Supermarket Database\obj\Debug\netcoreapp2.0\04. Supermarket Database.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\04. Supermarket Database\obj\Debug\netcoreapp2.0\04. Supermarket Database.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\04. Supermarket Database\obj\Debug\netcoreapp2.0\04. Supermarket Database.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\04. Supermarket Database\obj\Debug\netcoreapp2.0\04. Supermarket Database.AssemblyInfo.cs
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\04. Supermarket Database\obj\Debug\netcoreapp2.0\04. Supermarket Database.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\04. Supermarket Database\obj\Debug\netcoreapp2.0\04. Supermarket Database.pdb

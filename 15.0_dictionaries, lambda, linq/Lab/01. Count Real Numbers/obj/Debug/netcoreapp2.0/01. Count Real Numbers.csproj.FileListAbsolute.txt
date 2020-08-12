@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\01. Count Real Numbers\bin\Debug\netcoreapp2.0\01. Count Real Numbers.deps.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\01. Count Real Numbers\bin\Debug\netcoreapp2.0\01. Count Real Numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\01. Count Real Numbers\bin\Debug\netcoreapp2.0\01. Count Real Numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\01. Count Real Numbers\bin\Debug\netcoreapp2.0\01. Count Real Numbers.dll
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\01. Count Real Numbers\bin\Debug\netcoreapp2.0\01. Count Real Numbers.pdb
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\01. Count Real Numbers\obj\Debug\netcoreapp2.0\01. Count Real Numbers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\01. Count Real Numbers\obj\Debug\netcoreapp2.0\01. Count Real Numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\01. Count Real Numbers\obj\Debug\netcoreapp2.0\01. Count Real Numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\01. Count Real Numbers\obj\Debug\netcoreapp2.0\01. Count Real Numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\01. Count Real Numbers\obj\Debug\netcoreapp2.0\01. Count Real Numbers.dll
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\01. Count Real Numbers\obj\Debug\netcoreapp2.0\01. Count Real Numbers.pdb

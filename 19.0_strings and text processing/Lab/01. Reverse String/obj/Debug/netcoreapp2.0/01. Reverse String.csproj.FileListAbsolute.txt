@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\01. Reverse String\bin\Debug\netcoreapp2.0\01. Reverse String.deps.json
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\01. Reverse String\bin\Debug\netcoreapp2.0\01. Reverse String.runtimeconfig.json
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\01. Reverse String\bin\Debug\netcoreapp2.0\01. Reverse String.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\01. Reverse String\bin\Debug\netcoreapp2.0\01. Reverse String.dll
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\01. Reverse String\bin\Debug\netcoreapp2.0\01. Reverse String.pdb
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\01. Reverse String\obj\Debug\netcoreapp2.0\01. Reverse String.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\01. Reverse String\obj\Debug\netcoreapp2.0\01. Reverse String.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\01. Reverse String\obj\Debug\netcoreapp2.0\01. Reverse String.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\01. Reverse String\obj\Debug\netcoreapp2.0\01. Reverse String.AssemblyInfo.cs
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\01. Reverse String\obj\Debug\netcoreapp2.0\01. Reverse String.dll
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\01. Reverse String\obj\Debug\netcoreapp2.0\01. Reverse String.pdb

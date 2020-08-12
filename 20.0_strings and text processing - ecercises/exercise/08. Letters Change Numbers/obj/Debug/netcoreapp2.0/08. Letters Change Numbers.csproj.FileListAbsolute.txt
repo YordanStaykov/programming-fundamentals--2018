@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.deps.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.dll
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.pdb
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.dll
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.pdb

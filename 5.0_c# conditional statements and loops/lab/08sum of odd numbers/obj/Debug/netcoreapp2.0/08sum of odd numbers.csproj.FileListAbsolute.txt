@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\08sum of odd numbers\bin\Debug\netcoreapp2.0\08sum of odd numbers.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\08sum of odd numbers\bin\Debug\netcoreapp2.0\08sum of odd numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\08sum of odd numbers\bin\Debug\netcoreapp2.0\08sum of odd numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\08sum of odd numbers\bin\Debug\netcoreapp2.0\08sum of odd numbers.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\08sum of odd numbers\bin\Debug\netcoreapp2.0\08sum of odd numbers.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\08sum of odd numbers\obj\Debug\netcoreapp2.0\08sum of odd numbers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\08sum of odd numbers\obj\Debug\netcoreapp2.0\08sum of odd numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\08sum of odd numbers\obj\Debug\netcoreapp2.0\08sum of odd numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\08sum of odd numbers\obj\Debug\netcoreapp2.0\08sum of odd numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\08sum of odd numbers\obj\Debug\netcoreapp2.0\08sum of odd numbers.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\08sum of odd numbers\obj\Debug\netcoreapp2.0\08sum of odd numbers.pdb

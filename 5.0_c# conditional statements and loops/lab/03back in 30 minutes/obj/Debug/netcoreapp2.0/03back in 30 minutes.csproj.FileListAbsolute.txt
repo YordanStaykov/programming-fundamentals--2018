@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\03back in 30 minutes\bin\Debug\netcoreapp2.0\03back in 30 minutes.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\03back in 30 minutes\bin\Debug\netcoreapp2.0\03back in 30 minutes.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\03back in 30 minutes\bin\Debug\netcoreapp2.0\03back in 30 minutes.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\03back in 30 minutes\bin\Debug\netcoreapp2.0\03back in 30 minutes.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\03back in 30 minutes\bin\Debug\netcoreapp2.0\03back in 30 minutes.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\03back in 30 minutes\obj\Debug\netcoreapp2.0\03back in 30 minutes.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\03back in 30 minutes\obj\Debug\netcoreapp2.0\03back in 30 minutes.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\03back in 30 minutes\obj\Debug\netcoreapp2.0\03back in 30 minutes.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\03back in 30 minutes\obj\Debug\netcoreapp2.0\03back in 30 minutes.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\03back in 30 minutes\obj\Debug\netcoreapp2.0\03back in 30 minutes.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\03back in 30 minutes\obj\Debug\netcoreapp2.0\03back in 30 minutes.pdb

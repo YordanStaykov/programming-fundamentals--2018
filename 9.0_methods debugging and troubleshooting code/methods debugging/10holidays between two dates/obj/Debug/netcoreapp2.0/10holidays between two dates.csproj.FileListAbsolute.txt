@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\10holidays between two dates\bin\Debug\netcoreapp2.0\10holidays between two dates.deps.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\10holidays between two dates\bin\Debug\netcoreapp2.0\10holidays between two dates.runtimeconfig.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\10holidays between two dates\bin\Debug\netcoreapp2.0\10holidays between two dates.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\10holidays between two dates\bin\Debug\netcoreapp2.0\10holidays between two dates.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\10holidays between two dates\bin\Debug\netcoreapp2.0\10holidays between two dates.pdb
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\10holidays between two dates\obj\Debug\netcoreapp2.0\10holidays between two dates.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\10holidays between two dates\obj\Debug\netcoreapp2.0\10holidays between two dates.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\10holidays between two dates\obj\Debug\netcoreapp2.0\10holidays between two dates.AssemblyInfo.cs
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\10holidays between two dates\obj\Debug\netcoreapp2.0\10holidays between two dates.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\10holidays between two dates\obj\Debug\netcoreapp2.0\10holidays between two dates.pdb
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\10holidays between two dates\obj\Debug\netcoreapp2.0\10holidays between two dates.csprojResolveAssemblyReference.cache

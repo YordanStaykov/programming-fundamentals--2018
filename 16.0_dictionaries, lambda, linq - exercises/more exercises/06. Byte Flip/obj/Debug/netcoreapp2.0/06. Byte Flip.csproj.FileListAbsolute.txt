@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\06. Byte Flip\bin\Debug\netcoreapp2.0\06. Byte Flip.deps.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\06. Byte Flip\bin\Debug\netcoreapp2.0\06. Byte Flip.runtimeconfig.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\06. Byte Flip\bin\Debug\netcoreapp2.0\06. Byte Flip.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\06. Byte Flip\bin\Debug\netcoreapp2.0\06. Byte Flip.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\06. Byte Flip\bin\Debug\netcoreapp2.0\06. Byte Flip.pdb
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\06. Byte Flip\obj\Debug\netcoreapp2.0\06. Byte Flip.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\06. Byte Flip\obj\Debug\netcoreapp2.0\06. Byte Flip.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\06. Byte Flip\obj\Debug\netcoreapp2.0\06. Byte Flip.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\06. Byte Flip\obj\Debug\netcoreapp2.0\06. Byte Flip.AssemblyInfo.cs
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\06. Byte Flip\obj\Debug\netcoreapp2.0\06. Byte Flip.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\06. Byte Flip\obj\Debug\netcoreapp2.0\06. Byte Flip.pdb

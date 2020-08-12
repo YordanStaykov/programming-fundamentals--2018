@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\14factorial trailing zones\bin\Debug\netcoreapp2.0\14factorial trailing zones.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\14factorial trailing zones\bin\Debug\netcoreapp2.0\14factorial trailing zones.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\14factorial trailing zones\bin\Debug\netcoreapp2.0\14factorial trailing zones.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\14factorial trailing zones\bin\Debug\netcoreapp2.0\14factorial trailing zones.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\14factorial trailing zones\bin\Debug\netcoreapp2.0\14factorial trailing zones.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\14factorial trailing zones\obj\Debug\netcoreapp2.0\14factorial trailing zones.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\14factorial trailing zones\obj\Debug\netcoreapp2.0\14factorial trailing zones.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\14factorial trailing zones\obj\Debug\netcoreapp2.0\14factorial trailing zones.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\14factorial trailing zones\obj\Debug\netcoreapp2.0\14factorial trailing zones.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\14factorial trailing zones\obj\Debug\netcoreapp2.0\14factorial trailing zones.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\14factorial trailing zones\obj\Debug\netcoreapp2.0\14factorial trailing zones.pdb

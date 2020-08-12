@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\12master number\bin\Debug\netcoreapp2.0\12master number.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\12master number\bin\Debug\netcoreapp2.0\12master number.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\12master number\bin\Debug\netcoreapp2.0\12master number.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\12master number\bin\Debug\netcoreapp2.0\12master number.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\12master number\bin\Debug\netcoreapp2.0\12master number.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\12master number\obj\Debug\netcoreapp2.0\12master number.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\12master number\obj\Debug\netcoreapp2.0\12master number.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\12master number\obj\Debug\netcoreapp2.0\12master number.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\12master number\obj\Debug\netcoreapp2.0\12master number.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\12master number\obj\Debug\netcoreapp2.0\12master number.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\12master number\obj\Debug\netcoreapp2.0\12master number.pdb

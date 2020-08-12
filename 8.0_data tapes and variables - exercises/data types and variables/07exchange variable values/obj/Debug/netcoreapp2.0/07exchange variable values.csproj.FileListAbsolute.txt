@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\07exchange variable values\bin\Debug\netcoreapp2.0\07exchange variable values.deps.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\07exchange variable values\bin\Debug\netcoreapp2.0\07exchange variable values.runtimeconfig.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\07exchange variable values\bin\Debug\netcoreapp2.0\07exchange variable values.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\07exchange variable values\bin\Debug\netcoreapp2.0\07exchange variable values.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\07exchange variable values\bin\Debug\netcoreapp2.0\07exchange variable values.pdb
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\07exchange variable values\obj\Debug\netcoreapp2.0\07exchange variable values.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\07exchange variable values\obj\Debug\netcoreapp2.0\07exchange variable values.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\07exchange variable values\obj\Debug\netcoreapp2.0\07exchange variable values.AssemblyInfo.cs
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\07exchange variable values\obj\Debug\netcoreapp2.0\07exchange variable values.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\07exchange variable values\obj\Debug\netcoreapp2.0\07exchange variable values.pdb

@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\11price chage alert\bin\Debug\netcoreapp2.0\11price chage alert.deps.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\11price chage alert\bin\Debug\netcoreapp2.0\11price chage alert.runtimeconfig.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\11price chage alert\bin\Debug\netcoreapp2.0\11price chage alert.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\11price chage alert\bin\Debug\netcoreapp2.0\11price chage alert.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\11price chage alert\bin\Debug\netcoreapp2.0\11price chage alert.pdb
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\11price chage alert\obj\Debug\netcoreapp2.0\11price chage alert.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\11price chage alert\obj\Debug\netcoreapp2.0\11price chage alert.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\11price chage alert\obj\Debug\netcoreapp2.0\11price chage alert.AssemblyInfo.cs
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\11price chage alert\obj\Debug\netcoreapp2.0\11price chage alert.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\11price chage alert\obj\Debug\netcoreapp2.0\11price chage alert.pdb
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\11price chage alert\obj\Debug\netcoreapp2.0\11price chage alert.csprojResolveAssemblyReference.cache

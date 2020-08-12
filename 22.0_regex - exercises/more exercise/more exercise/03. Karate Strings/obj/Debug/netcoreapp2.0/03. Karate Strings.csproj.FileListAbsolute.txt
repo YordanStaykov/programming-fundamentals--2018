@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\03. Karate Strings\bin\Debug\netcoreapp2.0\03. Karate Strings.deps.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\03. Karate Strings\bin\Debug\netcoreapp2.0\03. Karate Strings.runtimeconfig.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\03. Karate Strings\bin\Debug\netcoreapp2.0\03. Karate Strings.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\03. Karate Strings\bin\Debug\netcoreapp2.0\03. Karate Strings.dll
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\03. Karate Strings\bin\Debug\netcoreapp2.0\03. Karate Strings.pdb
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\03. Karate Strings\obj\Debug\netcoreapp2.0\03. Karate Strings.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\03. Karate Strings\obj\Debug\netcoreapp2.0\03. Karate Strings.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\03. Karate Strings\obj\Debug\netcoreapp2.0\03. Karate Strings.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\03. Karate Strings\obj\Debug\netcoreapp2.0\03. Karate Strings.AssemblyInfo.cs
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\03. Karate Strings\obj\Debug\netcoreapp2.0\03. Karate Strings.dll
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\03. Karate Strings\obj\Debug\netcoreapp2.0\03. Karate Strings.pdb

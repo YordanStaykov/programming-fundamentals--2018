@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\01passed\bin\Debug\netcoreapp2.0\01passed.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\01passed\bin\Debug\netcoreapp2.0\01passed.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\01passed\bin\Debug\netcoreapp2.0\01passed.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\01passed\bin\Debug\netcoreapp2.0\01passed.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\01passed\bin\Debug\netcoreapp2.0\01passed.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\01passed\obj\Debug\netcoreapp2.0\01passed.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\01passed\obj\Debug\netcoreapp2.0\01passed.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\01passed\obj\Debug\netcoreapp2.0\01passed.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\01passed\obj\Debug\netcoreapp2.0\01passed.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\01passed\obj\Debug\netcoreapp2.0\01passed.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\01passed\obj\Debug\netcoreapp2.0\01passed.pdb

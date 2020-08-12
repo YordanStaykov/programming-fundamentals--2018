@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\04. Morse Code Upgraded\bin\Debug\netcoreapp2.0\04. Morse Code Upgraded.deps.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\04. Morse Code Upgraded\bin\Debug\netcoreapp2.0\04. Morse Code Upgraded.runtimeconfig.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\04. Morse Code Upgraded\bin\Debug\netcoreapp2.0\04. Morse Code Upgraded.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\04. Morse Code Upgraded\bin\Debug\netcoreapp2.0\04. Morse Code Upgraded.dll
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\04. Morse Code Upgraded\bin\Debug\netcoreapp2.0\04. Morse Code Upgraded.pdb
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\04. Morse Code Upgraded\obj\Debug\netcoreapp2.0\04. Morse Code Upgraded.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\04. Morse Code Upgraded\obj\Debug\netcoreapp2.0\04. Morse Code Upgraded.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\04. Morse Code Upgraded\obj\Debug\netcoreapp2.0\04. Morse Code Upgraded.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\04. Morse Code Upgraded\obj\Debug\netcoreapp2.0\04. Morse Code Upgraded.AssemblyInfo.cs
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\04. Morse Code Upgraded\obj\Debug\netcoreapp2.0\04. Morse Code Upgraded.dll
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\04. Morse Code Upgraded\obj\Debug\netcoreapp2.0\04. Morse Code Upgraded.pdb

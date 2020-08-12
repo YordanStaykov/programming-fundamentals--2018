@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\03exaxt sum of numbers\bin\Debug\netcoreapp2.0\03exaxt sum of numbers.deps.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\03exaxt sum of numbers\bin\Debug\netcoreapp2.0\03exaxt sum of numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\03exaxt sum of numbers\bin\Debug\netcoreapp2.0\03exaxt sum of numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\03exaxt sum of numbers\bin\Debug\netcoreapp2.0\03exaxt sum of numbers.dll
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\03exaxt sum of numbers\bin\Debug\netcoreapp2.0\03exaxt sum of numbers.pdb
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\03exaxt sum of numbers\obj\Debug\netcoreapp2.0\03exaxt sum of numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\03exaxt sum of numbers\obj\Debug\netcoreapp2.0\03exaxt sum of numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\03exaxt sum of numbers\obj\Debug\netcoreapp2.0\03exaxt sum of numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\03exaxt sum of numbers\obj\Debug\netcoreapp2.0\03exaxt sum of numbers.dll
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\03exaxt sum of numbers\obj\Debug\netcoreapp2.0\03exaxt sum of numbers.pdb

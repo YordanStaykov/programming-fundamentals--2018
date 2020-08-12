@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\11.0_arrays\Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.deps.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.runtimeconfig.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.dll
+D:\Code\TechModule January 2018\11.0_arrays\Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.pdb
+D:\Code\TechModule January 2018\11.0_arrays\Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\11.0_arrays\Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\11.0_arrays\Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.AssemblyInfo.cs
+D:\Code\TechModule January 2018\11.0_arrays\Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.dll
+D:\Code\TechModule January 2018\11.0_arrays\Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.pdb

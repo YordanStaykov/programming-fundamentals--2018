@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\09reversed chars\bin\Debug\netcoreapp2.0\09reversed chars.deps.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\09reversed chars\bin\Debug\netcoreapp2.0\09reversed chars.runtimeconfig.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\09reversed chars\bin\Debug\netcoreapp2.0\09reversed chars.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\09reversed chars\bin\Debug\netcoreapp2.0\09reversed chars.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\09reversed chars\bin\Debug\netcoreapp2.0\09reversed chars.pdb
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\09reversed chars\obj\Debug\netcoreapp2.0\09reversed chars.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\09reversed chars\obj\Debug\netcoreapp2.0\09reversed chars.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\09reversed chars\obj\Debug\netcoreapp2.0\09reversed chars.AssemblyInfo.cs
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\09reversed chars\obj\Debug\netcoreapp2.0\09reversed chars.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\09reversed chars\obj\Debug\netcoreapp2.0\09reversed chars.pdb

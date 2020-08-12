@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\04. Pokemon Evolution\bin\Debug\netcoreapp2.0\04. Pokemon Evolution.deps.json
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\04. Pokemon Evolution\bin\Debug\netcoreapp2.0\04. Pokemon Evolution.runtimeconfig.json
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\04. Pokemon Evolution\bin\Debug\netcoreapp2.0\04. Pokemon Evolution.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\04. Pokemon Evolution\bin\Debug\netcoreapp2.0\04. Pokemon Evolution.dll
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\04. Pokemon Evolution\bin\Debug\netcoreapp2.0\04. Pokemon Evolution.pdb
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\04. Pokemon Evolution\obj\Debug\netcoreapp2.0\04. Pokemon Evolution.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\04. Pokemon Evolution\obj\Debug\netcoreapp2.0\04. Pokemon Evolution.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\04. Pokemon Evolution\obj\Debug\netcoreapp2.0\04. Pokemon Evolution.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\04. Pokemon Evolution\obj\Debug\netcoreapp2.0\04. Pokemon Evolution.AssemblyInfo.cs
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\04. Pokemon Evolution\obj\Debug\netcoreapp2.0\04. Pokemon Evolution.dll
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\04. Pokemon Evolution\obj\Debug\netcoreapp2.0\04. Pokemon Evolution.pdb

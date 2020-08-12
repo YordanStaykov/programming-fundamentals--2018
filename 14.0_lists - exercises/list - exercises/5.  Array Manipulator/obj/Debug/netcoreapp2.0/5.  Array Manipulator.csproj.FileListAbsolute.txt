@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\5.  Array Manipulator\bin\Debug\netcoreapp2.0\5.  Array Manipulator.deps.json
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\5.  Array Manipulator\bin\Debug\netcoreapp2.0\5.  Array Manipulator.runtimeconfig.json
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\5.  Array Manipulator\bin\Debug\netcoreapp2.0\5.  Array Manipulator.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\5.  Array Manipulator\bin\Debug\netcoreapp2.0\5.  Array Manipulator.dll
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\5.  Array Manipulator\bin\Debug\netcoreapp2.0\5.  Array Manipulator.pdb
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\5.  Array Manipulator\obj\Debug\netcoreapp2.0\5.  Array Manipulator.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\5.  Array Manipulator\obj\Debug\netcoreapp2.0\5.  Array Manipulator.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\5.  Array Manipulator\obj\Debug\netcoreapp2.0\5.  Array Manipulator.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\5.  Array Manipulator\obj\Debug\netcoreapp2.0\5.  Array Manipulator.AssemblyInfo.cs
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\5.  Array Manipulator\obj\Debug\netcoreapp2.0\5.  Array Manipulator.dll
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\5.  Array Manipulator\obj\Debug\netcoreapp2.0\5.  Array Manipulator.pdb

@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\07divisable by 3\bin\Debug\netcoreapp2.0\07divisable by 3.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\07divisable by 3\bin\Debug\netcoreapp2.0\07divisable by 3.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\07divisable by 3\bin\Debug\netcoreapp2.0\07divisable by 3.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\07divisable by 3\bin\Debug\netcoreapp2.0\07divisable by 3.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\07divisable by 3\bin\Debug\netcoreapp2.0\07divisable by 3.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\07divisable by 3\obj\Debug\netcoreapp2.0\07divisable by 3.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\07divisable by 3\obj\Debug\netcoreapp2.0\07divisable by 3.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\07divisable by 3\obj\Debug\netcoreapp2.0\07divisable by 3.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\07divisable by 3\obj\Debug\netcoreapp2.0\07divisable by 3.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\07divisable by 3\obj\Debug\netcoreapp2.0\07divisable by 3.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\07divisable by 3\obj\Debug\netcoreapp2.0\07divisable by 3.pdb

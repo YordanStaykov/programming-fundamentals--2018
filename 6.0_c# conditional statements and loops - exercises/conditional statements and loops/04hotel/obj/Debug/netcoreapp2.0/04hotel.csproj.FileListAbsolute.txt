@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\04hotel\bin\Debug\netcoreapp2.0\04hotel.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\04hotel\bin\Debug\netcoreapp2.0\04hotel.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\04hotel\bin\Debug\netcoreapp2.0\04hotel.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\04hotel\bin\Debug\netcoreapp2.0\04hotel.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\04hotel\bin\Debug\netcoreapp2.0\04hotel.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\04hotel\obj\Debug\netcoreapp2.0\04hotel.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\04hotel\obj\Debug\netcoreapp2.0\04hotel.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\04hotel\obj\Debug\netcoreapp2.0\04hotel.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\04hotel\obj\Debug\netcoreapp2.0\04hotel.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\04hotel\obj\Debug\netcoreapp2.0\04hotel.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\04hotel\obj\Debug\netcoreapp2.0\04hotel.pdb

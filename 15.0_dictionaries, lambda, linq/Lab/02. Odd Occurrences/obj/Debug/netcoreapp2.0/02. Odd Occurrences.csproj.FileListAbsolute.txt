@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.deps.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.runtimeconfig.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.dll
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.pdb
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.AssemblyInfo.cs
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.dll
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.pdb

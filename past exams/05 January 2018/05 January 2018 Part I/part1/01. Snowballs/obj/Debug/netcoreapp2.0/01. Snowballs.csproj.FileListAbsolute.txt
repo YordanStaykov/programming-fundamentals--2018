@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\01. Snowballs\bin\Debug\netcoreapp2.0\01. Snowballs.deps.json
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\01. Snowballs\bin\Debug\netcoreapp2.0\01. Snowballs.runtimeconfig.json
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\01. Snowballs\bin\Debug\netcoreapp2.0\01. Snowballs.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\01. Snowballs\bin\Debug\netcoreapp2.0\01. Snowballs.dll
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\01. Snowballs\bin\Debug\netcoreapp2.0\01. Snowballs.pdb
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\01. Snowballs\obj\Debug\netcoreapp2.0\01. Snowballs.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\01. Snowballs\obj\Debug\netcoreapp2.0\01. Snowballs.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\01. Snowballs\obj\Debug\netcoreapp2.0\01. Snowballs.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\01. Snowballs\obj\Debug\netcoreapp2.0\01. Snowballs.AssemblyInfo.cs
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\01. Snowballs\obj\Debug\netcoreapp2.0\01. Snowballs.dll
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\01. Snowballs\obj\Debug\netcoreapp2.0\01. Snowballs.pdb

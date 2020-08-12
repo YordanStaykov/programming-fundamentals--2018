@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\01Anonymous Downsite\bin\Debug\netcoreapp2.0\01Anonymous Downsite.deps.json
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\01Anonymous Downsite\bin\Debug\netcoreapp2.0\01Anonymous Downsite.runtimeconfig.json
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\01Anonymous Downsite\bin\Debug\netcoreapp2.0\01Anonymous Downsite.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\01Anonymous Downsite\bin\Debug\netcoreapp2.0\01Anonymous Downsite.dll
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\01Anonymous Downsite\bin\Debug\netcoreapp2.0\01Anonymous Downsite.pdb
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\01Anonymous Downsite\obj\Debug\netcoreapp2.0\01Anonymous Downsite.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\01Anonymous Downsite\obj\Debug\netcoreapp2.0\01Anonymous Downsite.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\01Anonymous Downsite\obj\Debug\netcoreapp2.0\01Anonymous Downsite.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\01Anonymous Downsite\obj\Debug\netcoreapp2.0\01Anonymous Downsite.AssemblyInfo.cs
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\01Anonymous Downsite\obj\Debug\netcoreapp2.0\01Anonymous Downsite.dll
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\01Anonymous Downsite\obj\Debug\netcoreapp2.0\01Anonymous Downsite.pdb

@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\08calories couter\bin\Debug\netcoreapp2.0\08calories couter.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\08calories couter\bin\Debug\netcoreapp2.0\08calories couter.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\08calories couter\bin\Debug\netcoreapp2.0\08calories couter.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\08calories couter\bin\Debug\netcoreapp2.0\08calories couter.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\08calories couter\bin\Debug\netcoreapp2.0\08calories couter.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\08calories couter\obj\Debug\netcoreapp2.0\08calories couter.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\08calories couter\obj\Debug\netcoreapp2.0\08calories couter.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\08calories couter\obj\Debug\netcoreapp2.0\08calories couter.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\08calories couter\obj\Debug\netcoreapp2.0\08calories couter.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\08calories couter\obj\Debug\netcoreapp2.0\08calories couter.pdb

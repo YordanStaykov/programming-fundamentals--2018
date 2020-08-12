@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\exam\exam\04force book\bin\Debug\netcoreapp2.0\04force book.deps.json
+D:\Code\TechModule January 2018\exam\exam\04force book\bin\Debug\netcoreapp2.0\04force book.runtimeconfig.json
+D:\Code\TechModule January 2018\exam\exam\04force book\bin\Debug\netcoreapp2.0\04force book.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\exam\exam\04force book\bin\Debug\netcoreapp2.0\04force book.dll
+D:\Code\TechModule January 2018\exam\exam\04force book\bin\Debug\netcoreapp2.0\04force book.pdb
+D:\Code\TechModule January 2018\exam\exam\04force book\obj\Debug\netcoreapp2.0\04force book.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\exam\exam\04force book\obj\Debug\netcoreapp2.0\04force book.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\exam\exam\04force book\obj\Debug\netcoreapp2.0\04force book.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\exam\exam\04force book\obj\Debug\netcoreapp2.0\04force book.AssemblyInfo.cs
+D:\Code\TechModule January 2018\exam\exam\04force book\obj\Debug\netcoreapp2.0\04force book.dll
+D:\Code\TechModule January 2018\exam\exam\04force book\obj\Debug\netcoreapp2.0\04force book.pdb

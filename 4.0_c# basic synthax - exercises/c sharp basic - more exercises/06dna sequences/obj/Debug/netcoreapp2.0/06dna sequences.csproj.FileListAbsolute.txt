@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\06dna sequences\bin\Debug\netcoreapp2.0\06dna sequences.deps.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\06dna sequences\bin\Debug\netcoreapp2.0\06dna sequences.runtimeconfig.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\06dna sequences\bin\Debug\netcoreapp2.0\06dna sequences.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\06dna sequences\bin\Debug\netcoreapp2.0\06dna sequences.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\06dna sequences\bin\Debug\netcoreapp2.0\06dna sequences.pdb
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\06dna sequences\obj\Debug\netcoreapp2.0\06dna sequences.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\06dna sequences\obj\Debug\netcoreapp2.0\06dna sequences.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\06dna sequences\obj\Debug\netcoreapp2.0\06dna sequences.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\06dna sequences\obj\Debug\netcoreapp2.0\06dna sequences.AssemblyInfo.cs
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\06dna sequences\obj\Debug\netcoreapp2.0\06dna sequences.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\06dna sequences\obj\Debug\netcoreapp2.0\06dna sequences.pdb

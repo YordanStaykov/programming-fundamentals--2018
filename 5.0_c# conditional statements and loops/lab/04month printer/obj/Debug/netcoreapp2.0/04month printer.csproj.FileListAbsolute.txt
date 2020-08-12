@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\04month printer\bin\Debug\netcoreapp2.0\04month printer.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\04month printer\bin\Debug\netcoreapp2.0\04month printer.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\04month printer\bin\Debug\netcoreapp2.0\04month printer.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\04month printer\bin\Debug\netcoreapp2.0\04month printer.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\04month printer\bin\Debug\netcoreapp2.0\04month printer.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\04month printer\obj\Debug\netcoreapp2.0\04month printer.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\04month printer\obj\Debug\netcoreapp2.0\04month printer.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\04month printer\obj\Debug\netcoreapp2.0\04month printer.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\04month printer\obj\Debug\netcoreapp2.0\04month printer.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\04month printer\obj\Debug\netcoreapp2.0\04month printer.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\04month printer\obj\Debug\netcoreapp2.0\04month printer.pdb

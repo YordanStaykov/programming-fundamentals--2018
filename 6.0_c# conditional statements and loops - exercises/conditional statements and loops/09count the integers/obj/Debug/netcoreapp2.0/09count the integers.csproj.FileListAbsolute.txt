@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\09count the integers\bin\Debug\netcoreapp2.0\09count the integers.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\09count the integers\bin\Debug\netcoreapp2.0\09count the integers.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\09count the integers\bin\Debug\netcoreapp2.0\09count the integers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\09count the integers\bin\Debug\netcoreapp2.0\09count the integers.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\09count the integers\bin\Debug\netcoreapp2.0\09count the integers.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\09count the integers\obj\Debug\netcoreapp2.0\09count the integers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\09count the integers\obj\Debug\netcoreapp2.0\09count the integers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\09count the integers\obj\Debug\netcoreapp2.0\09count the integers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\09count the integers\obj\Debug\netcoreapp2.0\09count the integers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\09count the integers\obj\Debug\netcoreapp2.0\09count the integers.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\09count the integers\obj\Debug\netcoreapp2.0\09count the integers.pdb

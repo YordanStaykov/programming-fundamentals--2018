@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\3. Search for a Number\bin\Debug\netcoreapp2.0\3. Search for a Number.deps.json
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\3. Search for a Number\bin\Debug\netcoreapp2.0\3. Search for a Number.runtimeconfig.json
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\3. Search for a Number\bin\Debug\netcoreapp2.0\3. Search for a Number.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\3. Search for a Number\bin\Debug\netcoreapp2.0\3. Search for a Number.dll
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\3. Search for a Number\bin\Debug\netcoreapp2.0\3. Search for a Number.pdb
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\3. Search for a Number\obj\Debug\netcoreapp2.0\3. Search for a Number.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\3. Search for a Number\obj\Debug\netcoreapp2.0\3. Search for a Number.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\3. Search for a Number\obj\Debug\netcoreapp2.0\3. Search for a Number.AssemblyInfo.cs
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\3. Search for a Number\obj\Debug\netcoreapp2.0\3. Search for a Number.dll
+D:\Code\TechModule January 2018\14.0_lists - exercises\list - exercises\3. Search for a Number\obj\Debug\netcoreapp2.0\3. Search for a Number.pdb

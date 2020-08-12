@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\08employee data\bin\Debug\netcoreapp2.0\08employee data.deps.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\08employee data\bin\Debug\netcoreapp2.0\08employee data.runtimeconfig.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\08employee data\bin\Debug\netcoreapp2.0\08employee data.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\08employee data\bin\Debug\netcoreapp2.0\08employee data.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\08employee data\bin\Debug\netcoreapp2.0\08employee data.pdb
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\08employee data\obj\Debug\netcoreapp2.0\08employee data.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\08employee data\obj\Debug\netcoreapp2.0\08employee data.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\08employee data\obj\Debug\netcoreapp2.0\08employee data.AssemblyInfo.cs
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\08employee data\obj\Debug\netcoreapp2.0\08employee data.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\08employee data\obj\Debug\netcoreapp2.0\08employee data.pdb

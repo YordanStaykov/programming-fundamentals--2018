@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\02practice floating points\bin\Debug\netcoreapp2.0\02practice floating points.deps.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\02practice floating points\bin\Debug\netcoreapp2.0\02practice floating points.runtimeconfig.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\02practice floating points\bin\Debug\netcoreapp2.0\02practice floating points.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\02practice floating points\bin\Debug\netcoreapp2.0\02practice floating points.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\02practice floating points\bin\Debug\netcoreapp2.0\02practice floating points.pdb
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\02practice floating points\obj\Debug\netcoreapp2.0\02practice floating points.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\02practice floating points\obj\Debug\netcoreapp2.0\02practice floating points.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\02practice floating points\obj\Debug\netcoreapp2.0\02practice floating points.AssemblyInfo.cs
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\02practice floating points\obj\Debug\netcoreapp2.0\02practice floating points.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\02practice floating points\obj\Debug\netcoreapp2.0\02practice floating points.pdb

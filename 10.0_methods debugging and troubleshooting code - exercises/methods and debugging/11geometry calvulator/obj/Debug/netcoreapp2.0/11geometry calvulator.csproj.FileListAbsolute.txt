@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\11geometry calvulator\bin\Debug\netcoreapp2.0\11geometry calvulator.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\11geometry calvulator\bin\Debug\netcoreapp2.0\11geometry calvulator.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\11geometry calvulator\bin\Debug\netcoreapp2.0\11geometry calvulator.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\11geometry calvulator\bin\Debug\netcoreapp2.0\11geometry calvulator.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\11geometry calvulator\bin\Debug\netcoreapp2.0\11geometry calvulator.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\11geometry calvulator\obj\Debug\netcoreapp2.0\11geometry calvulator.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\11geometry calvulator\obj\Debug\netcoreapp2.0\11geometry calvulator.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\11geometry calvulator\obj\Debug\netcoreapp2.0\11geometry calvulator.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\11geometry calvulator\obj\Debug\netcoreapp2.0\11geometry calvulator.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\11geometry calvulator\obj\Debug\netcoreapp2.0\11geometry calvulator.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\11geometry calvulator\obj\Debug\netcoreapp2.0\11geometry calvulator.pdb

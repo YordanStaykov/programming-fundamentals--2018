@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\09longer line\bin\Debug\netcoreapp2.0\09longer line.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\09longer line\bin\Debug\netcoreapp2.0\09longer line.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\09longer line\bin\Debug\netcoreapp2.0\09longer line.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\09longer line\bin\Debug\netcoreapp2.0\09longer line.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\09longer line\bin\Debug\netcoreapp2.0\09longer line.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\09longer line\obj\Debug\netcoreapp2.0\09longer line.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\09longer line\obj\Debug\netcoreapp2.0\09longer line.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\09longer line\obj\Debug\netcoreapp2.0\09longer line.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\09longer line\obj\Debug\netcoreapp2.0\09longer line.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\09longer line\obj\Debug\netcoreapp2.0\09longer line.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\09longer line\obj\Debug\netcoreapp2.0\09longer line.pdb

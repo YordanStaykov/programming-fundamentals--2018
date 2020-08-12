@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\06prime checker\bin\Debug\netcoreapp2.0\06prime checker.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\06prime checker\bin\Debug\netcoreapp2.0\06prime checker.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\06prime checker\bin\Debug\netcoreapp2.0\06prime checker.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\06prime checker\bin\Debug\netcoreapp2.0\06prime checker.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\06prime checker\bin\Debug\netcoreapp2.0\06prime checker.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\06prime checker\obj\Debug\netcoreapp2.0\06prime checker.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\06prime checker\obj\Debug\netcoreapp2.0\06prime checker.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\06prime checker\obj\Debug\netcoreapp2.0\06prime checker.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\06prime checker\obj\Debug\netcoreapp2.0\06prime checker.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\06prime checker\obj\Debug\netcoreapp2.0\06prime checker.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\06prime checker\obj\Debug\netcoreapp2.0\06prime checker.pdb

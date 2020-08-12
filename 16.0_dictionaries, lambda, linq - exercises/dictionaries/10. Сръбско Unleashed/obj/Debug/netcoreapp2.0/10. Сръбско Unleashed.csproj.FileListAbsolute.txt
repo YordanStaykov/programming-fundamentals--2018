@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\10. Сръбско Unleashed\bin\Debug\netcoreapp2.0\10. Сръбско Unleashed.deps.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\10. Сръбско Unleashed\bin\Debug\netcoreapp2.0\10. Сръбско Unleashed.runtimeconfig.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\10. Сръбско Unleashed\bin\Debug\netcoreapp2.0\10. Сръбско Unleashed.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\10. Сръбско Unleashed\bin\Debug\netcoreapp2.0\10. Сръбско Unleashed.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\10. Сръбско Unleashed\bin\Debug\netcoreapp2.0\10. Сръбско Unleashed.pdb
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\10. Сръбско Unleashed\obj\Debug\netcoreapp2.0\10. Сръбско Unleashed.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\10. Сръбско Unleashed\obj\Debug\netcoreapp2.0\10. Сръбско Unleashed.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\10. Сръбско Unleashed\obj\Debug\netcoreapp2.0\10. Сръбско Unleashed.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\10. Сръбско Unleashed\obj\Debug\netcoreapp2.0\10. Сръбско Unleashed.AssemblyInfo.cs
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\10. Сръбско Unleashed\obj\Debug\netcoreapp2.0\10. Сръбско Unleashed.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\10. Сръбско Unleashed\obj\Debug\netcoreapp2.0\10. Сръбско Unleashed.pdb

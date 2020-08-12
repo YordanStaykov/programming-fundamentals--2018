@@ -1,0 +1,11 @@
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week.deps.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week.runtimeconfig.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week.runtimeconfig.dev.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week.dll
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week.pdb
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week.csprojResolveAssemblyReference.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week.csproj.CoreCompileInputs.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week.AssemblyInfoInputs.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week.AssemblyInfo.cs
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week.dll
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week.pdb

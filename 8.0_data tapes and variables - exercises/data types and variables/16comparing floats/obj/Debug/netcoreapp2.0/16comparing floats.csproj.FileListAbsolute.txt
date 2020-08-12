@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\16comparing floats\bin\Debug\netcoreapp2.0\16comparing floats.deps.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\16comparing floats\bin\Debug\netcoreapp2.0\16comparing floats.runtimeconfig.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\16comparing floats\bin\Debug\netcoreapp2.0\16comparing floats.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\16comparing floats\bin\Debug\netcoreapp2.0\16comparing floats.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\16comparing floats\bin\Debug\netcoreapp2.0\16comparing floats.pdb
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\16comparing floats\obj\Debug\netcoreapp2.0\16comparing floats.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\16comparing floats\obj\Debug\netcoreapp2.0\16comparing floats.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\16comparing floats\obj\Debug\netcoreapp2.0\16comparing floats.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\16comparing floats\obj\Debug\netcoreapp2.0\16comparing floats.AssemblyInfo.cs
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\16comparing floats\obj\Debug\netcoreapp2.0\16comparing floats.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\16comparing floats\obj\Debug\netcoreapp2.0\16comparing floats.pdb

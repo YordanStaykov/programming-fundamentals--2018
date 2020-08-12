@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.deps.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.runtimeconfig.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.pdb
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.AssemblyInfo.cs
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.pdb

@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\02. Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.deps.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\02. Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.runtimeconfig.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\02. Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\02. Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.dll
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\02. Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.pdb
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\02. Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\02. Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\02. Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\02. Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.AssemblyInfo.cs
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\02. Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.dll
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\02. Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.pdb

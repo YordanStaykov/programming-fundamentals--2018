@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\03. Immune System\bin\Debug\netcoreapp2.0\03. Immune System.deps.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\03. Immune System\bin\Debug\netcoreapp2.0\03. Immune System.runtimeconfig.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\03. Immune System\bin\Debug\netcoreapp2.0\03. Immune System.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\03. Immune System\bin\Debug\netcoreapp2.0\03. Immune System.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\03. Immune System\bin\Debug\netcoreapp2.0\03. Immune System.pdb
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\03. Immune System\obj\Debug\netcoreapp2.0\03. Immune System.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\03. Immune System\obj\Debug\netcoreapp2.0\03. Immune System.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\03. Immune System\obj\Debug\netcoreapp2.0\03. Immune System.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\03. Immune System\obj\Debug\netcoreapp2.0\03. Immune System.AssemblyInfo.cs
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\03. Immune System\obj\Debug\netcoreapp2.0\03. Immune System.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\03. Immune System\obj\Debug\netcoreapp2.0\03. Immune System.pdb

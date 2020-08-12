@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\04numbers in reversed order\bin\Debug\netcoreapp2.0\04numbers in reversed order.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\04numbers in reversed order\bin\Debug\netcoreapp2.0\04numbers in reversed order.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\04numbers in reversed order\bin\Debug\netcoreapp2.0\04numbers in reversed order.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\04numbers in reversed order\bin\Debug\netcoreapp2.0\04numbers in reversed order.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\04numbers in reversed order\bin\Debug\netcoreapp2.0\04numbers in reversed order.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\04numbers in reversed order\obj\Debug\netcoreapp2.0\04numbers in reversed order.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\04numbers in reversed order\obj\Debug\netcoreapp2.0\04numbers in reversed order.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\04numbers in reversed order\obj\Debug\netcoreapp2.0\04numbers in reversed order.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\04numbers in reversed order\obj\Debug\netcoreapp2.0\04numbers in reversed order.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\04numbers in reversed order\obj\Debug\netcoreapp2.0\04numbers in reversed order.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\04numbers in reversed order\obj\Debug\netcoreapp2.0\04numbers in reversed order.pdb

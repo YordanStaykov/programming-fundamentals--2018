@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\11odd number\bin\Debug\netcoreapp2.0\11odd number.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\11odd number\bin\Debug\netcoreapp2.0\11odd number.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\11odd number\bin\Debug\netcoreapp2.0\11odd number.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\11odd number\bin\Debug\netcoreapp2.0\11odd number.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\11odd number\bin\Debug\netcoreapp2.0\11odd number.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\11odd number\obj\Debug\netcoreapp2.0\11odd number.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\11odd number\obj\Debug\netcoreapp2.0\11odd number.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\11odd number\obj\Debug\netcoreapp2.0\11odd number.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\11odd number\obj\Debug\netcoreapp2.0\11odd number.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\11odd number\obj\Debug\netcoreapp2.0\11odd number.pdb

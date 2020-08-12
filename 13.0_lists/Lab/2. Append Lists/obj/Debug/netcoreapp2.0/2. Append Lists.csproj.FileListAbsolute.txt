@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\13.0_lists\Lab\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.deps.json
+D:\Code\TechModule January 2018\13.0_lists\Lab\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.runtimeconfig.json
+D:\Code\TechModule January 2018\13.0_lists\Lab\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\13.0_lists\Lab\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.dll
+D:\Code\TechModule January 2018\13.0_lists\Lab\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.pdb
+D:\Code\TechModule January 2018\13.0_lists\Lab\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\13.0_lists\Lab\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\13.0_lists\Lab\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.AssemblyInfo.cs
+D:\Code\TechModule January 2018\13.0_lists\Lab\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.dll
+D:\Code\TechModule January 2018\13.0_lists\Lab\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.pdb
+D:\Code\TechModule January 2018\13.0_lists\Lab\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.csprojResolveAssemblyReference.cache

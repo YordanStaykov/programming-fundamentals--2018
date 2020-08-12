@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\01blank receipt\obj\Debug\netcoreapp2.0\01blank receipt.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\01blank receipt\obj\Debug\netcoreapp2.0\01blank receipt.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\01blank receipt\obj\Debug\netcoreapp2.0\01blank receipt.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\01blank receipt\obj\Debug\netcoreapp2.0\01blank receipt.AssemblyInfo.cs
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\01blank receipt\bin\Debug\netcoreapp2.0\01blank receipt.deps.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\01blank receipt\bin\Debug\netcoreapp2.0\01blank receipt.runtimeconfig.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\01blank receipt\bin\Debug\netcoreapp2.0\01blank receipt.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\01blank receipt\bin\Debug\netcoreapp2.0\01blank receipt.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\01blank receipt\bin\Debug\netcoreapp2.0\01blank receipt.pdb
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\01blank receipt\obj\Debug\netcoreapp2.0\01blank receipt.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\01blank receipt\obj\Debug\netcoreapp2.0\01blank receipt.pdb

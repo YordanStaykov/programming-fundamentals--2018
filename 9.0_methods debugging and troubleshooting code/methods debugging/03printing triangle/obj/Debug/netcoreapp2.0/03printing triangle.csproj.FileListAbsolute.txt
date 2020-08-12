@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\03printing triangle\obj\Debug\netcoreapp2.0\03printing triangle.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\03printing triangle\obj\Debug\netcoreapp2.0\03printing triangle.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\03printing triangle\obj\Debug\netcoreapp2.0\03printing triangle.AssemblyInfo.cs
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\03printing triangle\bin\Debug\netcoreapp2.0\03printing triangle.deps.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\03printing triangle\bin\Debug\netcoreapp2.0\03printing triangle.runtimeconfig.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\03printing triangle\bin\Debug\netcoreapp2.0\03printing triangle.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\03printing triangle\bin\Debug\netcoreapp2.0\03printing triangle.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\03printing triangle\bin\Debug\netcoreapp2.0\03printing triangle.pdb
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\03printing triangle\obj\Debug\netcoreapp2.0\03printing triangle.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\03printing triangle\obj\Debug\netcoreapp2.0\03printing triangle.pdb

@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\exam\exam\01padawan equipment\bin\Debug\netcoreapp2.0\01padawan equipment.deps.json
+D:\Code\TechModule January 2018\exam\exam\01padawan equipment\bin\Debug\netcoreapp2.0\01padawan equipment.runtimeconfig.json
+D:\Code\TechModule January 2018\exam\exam\01padawan equipment\bin\Debug\netcoreapp2.0\01padawan equipment.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\exam\exam\01padawan equipment\bin\Debug\netcoreapp2.0\01padawan equipment.dll
+D:\Code\TechModule January 2018\exam\exam\01padawan equipment\bin\Debug\netcoreapp2.0\01padawan equipment.pdb
+D:\Code\TechModule January 2018\exam\exam\01padawan equipment\obj\Debug\netcoreapp2.0\01padawan equipment.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\exam\exam\01padawan equipment\obj\Debug\netcoreapp2.0\01padawan equipment.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\exam\exam\01padawan equipment\obj\Debug\netcoreapp2.0\01padawan equipment.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\exam\exam\01padawan equipment\obj\Debug\netcoreapp2.0\01padawan equipment.AssemblyInfo.cs
+D:\Code\TechModule January 2018\exam\exam\01padawan equipment\obj\Debug\netcoreapp2.0\01padawan equipment.dll
+D:\Code\TechModule January 2018\exam\exam\01padawan equipment\obj\Debug\netcoreapp2.0\01padawan equipment.pdb

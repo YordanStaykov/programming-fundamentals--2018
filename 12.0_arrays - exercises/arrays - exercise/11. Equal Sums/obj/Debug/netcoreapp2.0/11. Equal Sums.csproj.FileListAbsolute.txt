@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.deps.json
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.runtimeconfig.json
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.dll
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.pdb
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.AssemblyInfo.cs
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.dll
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.pdb

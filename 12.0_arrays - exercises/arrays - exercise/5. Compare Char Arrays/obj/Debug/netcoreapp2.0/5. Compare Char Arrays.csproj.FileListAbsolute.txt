@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.deps.json
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.runtimeconfig.json
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.dll
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.pdb
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.AssemblyInfo.cs
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.dll
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.pdb

@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\06number table\bin\Debug\netcoreapp2.0\06number table.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\06number table\bin\Debug\netcoreapp2.0\06number table.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\06number table\bin\Debug\netcoreapp2.0\06number table.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\06number table\bin\Debug\netcoreapp2.0\06number table.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\06number table\bin\Debug\netcoreapp2.0\06number table.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\06number table\obj\Debug\netcoreapp2.0\06number table.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\06number table\obj\Debug\netcoreapp2.0\06number table.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\06number table\obj\Debug\netcoreapp2.0\06number table.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\06number table\obj\Debug\netcoreapp2.0\06number table.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\06number table\obj\Debug\netcoreapp2.0\06number table.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\06number table\obj\Debug\netcoreapp2.0\06number table.csprojResolveAssemblyReference.cache

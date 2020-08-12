@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\03employee data\bin\Debug\netcoreapp2.0\03employee data.deps.json
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\03employee data\bin\Debug\netcoreapp2.0\03employee data.runtimeconfig.json
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\03employee data\bin\Debug\netcoreapp2.0\03employee data.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\03employee data\bin\Debug\netcoreapp2.0\03employee data.dll
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\03employee data\bin\Debug\netcoreapp2.0\03employee data.pdb
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\03employee data\obj\Debug\netcoreapp2.0\03employee data.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\03employee data\obj\Debug\netcoreapp2.0\03employee data.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\03employee data\obj\Debug\netcoreapp2.0\03employee data.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\03employee data\obj\Debug\netcoreapp2.0\03employee data.AssemblyInfo.cs
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\03employee data\obj\Debug\netcoreapp2.0\03employee data.dll
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\03employee data\obj\Debug\netcoreapp2.0\03employee data.pdb

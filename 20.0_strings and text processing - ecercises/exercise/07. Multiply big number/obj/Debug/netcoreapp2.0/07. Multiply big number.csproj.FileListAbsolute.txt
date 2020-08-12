@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.AssemblyInfo.cs
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.deps.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.runtimeconfig.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.dll
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.pdb
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.dll
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.pdb

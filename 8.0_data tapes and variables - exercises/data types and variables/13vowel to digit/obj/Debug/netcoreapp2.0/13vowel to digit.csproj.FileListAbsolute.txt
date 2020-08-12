@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\13vowel to digit\bin\Debug\netcoreapp2.0\13vowel to digit.deps.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\13vowel to digit\bin\Debug\netcoreapp2.0\13vowel to digit.runtimeconfig.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\13vowel to digit\bin\Debug\netcoreapp2.0\13vowel to digit.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\13vowel to digit\bin\Debug\netcoreapp2.0\13vowel to digit.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\13vowel to digit\bin\Debug\netcoreapp2.0\13vowel to digit.pdb
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\13vowel to digit\obj\Debug\netcoreapp2.0\13vowel to digit.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\13vowel to digit\obj\Debug\netcoreapp2.0\13vowel to digit.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\13vowel to digit\obj\Debug\netcoreapp2.0\13vowel to digit.AssemblyInfo.cs
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\13vowel to digit\obj\Debug\netcoreapp2.0\13vowel to digit.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\13vowel to digit\obj\Debug\netcoreapp2.0\13vowel to digit.pdb

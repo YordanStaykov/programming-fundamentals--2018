@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.deps.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.runtimeconfig.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.dll
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.pdb
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.AssemblyInfo.cs
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.dll
+D:\Code\TechModule January 2018\22.0_regex - exercises\exercise\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.pdb

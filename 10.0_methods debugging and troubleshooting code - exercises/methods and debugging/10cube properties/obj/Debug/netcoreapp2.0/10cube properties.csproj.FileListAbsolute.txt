@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\10cube properties\bin\Debug\netcoreapp2.0\10cube properties.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\10cube properties\bin\Debug\netcoreapp2.0\10cube properties.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\10cube properties\bin\Debug\netcoreapp2.0\10cube properties.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\10cube properties\bin\Debug\netcoreapp2.0\10cube properties.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\10cube properties\bin\Debug\netcoreapp2.0\10cube properties.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\10cube properties\obj\Debug\netcoreapp2.0\10cube properties.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\10cube properties\obj\Debug\netcoreapp2.0\10cube properties.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\10cube properties\obj\Debug\netcoreapp2.0\10cube properties.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\10cube properties\obj\Debug\netcoreapp2.0\10cube properties.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\10cube properties\obj\Debug\netcoreapp2.0\10cube properties.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\10cube properties\obj\Debug\netcoreapp2.0\10cube properties.pdb

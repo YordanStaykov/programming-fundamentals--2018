@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.deps.json
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.runtimeconfig.json
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.dll
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.pdb
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.AssemblyInfo.cs
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.dll
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.pdb

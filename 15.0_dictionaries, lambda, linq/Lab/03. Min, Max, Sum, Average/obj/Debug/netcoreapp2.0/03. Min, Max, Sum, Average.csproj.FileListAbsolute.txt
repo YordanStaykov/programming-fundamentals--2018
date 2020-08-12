@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\03. Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\03. Min, Max, Sum, Average.deps.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\03. Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\03. Min, Max, Sum, Average.runtimeconfig.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\03. Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\03. Min, Max, Sum, Average.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\03. Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\03. Min, Max, Sum, Average.dll
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\03. Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\03. Min, Max, Sum, Average.pdb
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\03. Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\03. Min, Max, Sum, Average.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\03. Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\03. Min, Max, Sum, Average.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\03. Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\03. Min, Max, Sum, Average.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\03. Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\03. Min, Max, Sum, Average.AssemblyInfo.cs
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\03. Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\03. Min, Max, Sum, Average.dll
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\03. Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\03. Min, Max, Sum, Average.pdb

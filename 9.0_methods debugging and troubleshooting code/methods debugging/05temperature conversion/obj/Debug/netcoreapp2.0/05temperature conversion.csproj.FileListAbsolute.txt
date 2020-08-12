@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\05temperature conversion\bin\Debug\netcoreapp2.0\05temperature conversion.deps.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\05temperature conversion\bin\Debug\netcoreapp2.0\05temperature conversion.runtimeconfig.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\05temperature conversion\bin\Debug\netcoreapp2.0\05temperature conversion.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\05temperature conversion\bin\Debug\netcoreapp2.0\05temperature conversion.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\05temperature conversion\bin\Debug\netcoreapp2.0\05temperature conversion.pdb
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\05temperature conversion\obj\Debug\netcoreapp2.0\05temperature conversion.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\05temperature conversion\obj\Debug\netcoreapp2.0\05temperature conversion.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\05temperature conversion\obj\Debug\netcoreapp2.0\05temperature conversion.AssemblyInfo.cs
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\05temperature conversion\obj\Debug\netcoreapp2.0\05temperature conversion.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\05temperature conversion\obj\Debug\netcoreapp2.0\05temperature conversion.pdb
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\05temperature conversion\obj\Debug\netcoreapp2.0\05temperature conversion.csprojResolveAssemblyReference.cache

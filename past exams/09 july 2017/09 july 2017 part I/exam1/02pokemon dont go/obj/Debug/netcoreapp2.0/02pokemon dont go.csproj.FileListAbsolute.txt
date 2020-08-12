@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\past exams\09 july 2017 part I\exam1\02pokemon dont go\bin\Debug\netcoreapp2.0\02pokemon dont go.deps.json
+D:\Code\TechModule January 2018\past exams\09 july 2017 part I\exam1\02pokemon dont go\bin\Debug\netcoreapp2.0\02pokemon dont go.runtimeconfig.json
+D:\Code\TechModule January 2018\past exams\09 july 2017 part I\exam1\02pokemon dont go\bin\Debug\netcoreapp2.0\02pokemon dont go.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\past exams\09 july 2017 part I\exam1\02pokemon dont go\bin\Debug\netcoreapp2.0\02pokemon dont go.dll
+D:\Code\TechModule January 2018\past exams\09 july 2017 part I\exam1\02pokemon dont go\bin\Debug\netcoreapp2.0\02pokemon dont go.pdb
+D:\Code\TechModule January 2018\past exams\09 july 2017 part I\exam1\02pokemon dont go\obj\Debug\netcoreapp2.0\02pokemon dont go.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\past exams\09 july 2017 part I\exam1\02pokemon dont go\obj\Debug\netcoreapp2.0\02pokemon dont go.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\past exams\09 july 2017 part I\exam1\02pokemon dont go\obj\Debug\netcoreapp2.0\02pokemon dont go.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\past exams\09 july 2017 part I\exam1\02pokemon dont go\obj\Debug\netcoreapp2.0\02pokemon dont go.AssemblyInfo.cs
+D:\Code\TechModule January 2018\past exams\09 july 2017 part I\exam1\02pokemon dont go\obj\Debug\netcoreapp2.0\02pokemon dont go.dll
+D:\Code\TechModule January 2018\past exams\09 july 2017 part I\exam1\02pokemon dont go\obj\Debug\netcoreapp2.0\02pokemon dont go.pdb

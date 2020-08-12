@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\01sino the walker\bin\Debug\netcoreapp2.0\01sino the walker.deps.json
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\01sino the walker\bin\Debug\netcoreapp2.0\01sino the walker.runtimeconfig.json
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\01sino the walker\bin\Debug\netcoreapp2.0\01sino the walker.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\01sino the walker\bin\Debug\netcoreapp2.0\01sino the walker.dll
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\01sino the walker\bin\Debug\netcoreapp2.0\01sino the walker.pdb
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\01sino the walker\obj\Debug\netcoreapp2.0\01sino the walker.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\01sino the walker\obj\Debug\netcoreapp2.0\01sino the walker.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\01sino the walker\obj\Debug\netcoreapp2.0\01sino the walker.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\01sino the walker\obj\Debug\netcoreapp2.0\01sino the walker.AssemblyInfo.cs
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\01sino the walker\obj\Debug\netcoreapp2.0\01sino the walker.dll
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\01sino the walker\obj\Debug\netcoreapp2.0\01sino the walker.pdb

@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\exam\exam\02kamino factory\bin\Debug\netcoreapp2.0\02kamino factory.deps.json
+D:\Code\TechModule January 2018\exam\exam\02kamino factory\bin\Debug\netcoreapp2.0\02kamino factory.runtimeconfig.json
+D:\Code\TechModule January 2018\exam\exam\02kamino factory\bin\Debug\netcoreapp2.0\02kamino factory.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\exam\exam\02kamino factory\bin\Debug\netcoreapp2.0\02kamino factory.dll
+D:\Code\TechModule January 2018\exam\exam\02kamino factory\bin\Debug\netcoreapp2.0\02kamino factory.pdb
+D:\Code\TechModule January 2018\exam\exam\02kamino factory\obj\Debug\netcoreapp2.0\02kamino factory.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\exam\exam\02kamino factory\obj\Debug\netcoreapp2.0\02kamino factory.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\exam\exam\02kamino factory\obj\Debug\netcoreapp2.0\02kamino factory.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\exam\exam\02kamino factory\obj\Debug\netcoreapp2.0\02kamino factory.AssemblyInfo.cs
+D:\Code\TechModule January 2018\exam\exam\02kamino factory\obj\Debug\netcoreapp2.0\02kamino factory.dll
+D:\Code\TechModule January 2018\exam\exam\02kamino factory\obj\Debug\netcoreapp2.0\02kamino factory.pdb

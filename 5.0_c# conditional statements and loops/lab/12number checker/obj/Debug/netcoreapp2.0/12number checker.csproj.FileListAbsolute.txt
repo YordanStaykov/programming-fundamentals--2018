@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\12number checker\bin\Debug\netcoreapp2.0\12number checker.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\12number checker\bin\Debug\netcoreapp2.0\12number checker.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\12number checker\bin\Debug\netcoreapp2.0\12number checker.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\12number checker\bin\Debug\netcoreapp2.0\12number checker.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\12number checker\bin\Debug\netcoreapp2.0\12number checker.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\12number checker\obj\Debug\netcoreapp2.0\12number checker.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\12number checker\obj\Debug\netcoreapp2.0\12number checker.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\12number checker\obj\Debug\netcoreapp2.0\12number checker.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\12number checker\obj\Debug\netcoreapp2.0\12number checker.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\12number checker\obj\Debug\netcoreapp2.0\12number checker.pdb

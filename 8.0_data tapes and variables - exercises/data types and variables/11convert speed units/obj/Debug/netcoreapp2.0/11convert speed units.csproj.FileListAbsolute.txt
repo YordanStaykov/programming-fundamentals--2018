@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\11convert speed units\bin\Debug\netcoreapp2.0\11convert speed units.deps.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\11convert speed units\bin\Debug\netcoreapp2.0\11convert speed units.runtimeconfig.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\11convert speed units\bin\Debug\netcoreapp2.0\11convert speed units.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\11convert speed units\bin\Debug\netcoreapp2.0\11convert speed units.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\11convert speed units\bin\Debug\netcoreapp2.0\11convert speed units.pdb
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\11convert speed units\obj\Debug\netcoreapp2.0\11convert speed units.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\11convert speed units\obj\Debug\netcoreapp2.0\11convert speed units.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\11convert speed units\obj\Debug\netcoreapp2.0\11convert speed units.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\11convert speed units\obj\Debug\netcoreapp2.0\11convert speed units.AssemblyInfo.cs
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\11convert speed units\obj\Debug\netcoreapp2.0\11convert speed units.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\11convert speed units\obj\Debug\netcoreapp2.0\11convert speed units.pdb

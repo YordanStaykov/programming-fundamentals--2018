@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\exam\exam\03star enigma\bin\Debug\netcoreapp2.0\03star enigma.deps.json
+D:\Code\TechModule January 2018\exam\exam\03star enigma\bin\Debug\netcoreapp2.0\03star enigma.runtimeconfig.json
+D:\Code\TechModule January 2018\exam\exam\03star enigma\bin\Debug\netcoreapp2.0\03star enigma.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\exam\exam\03star enigma\bin\Debug\netcoreapp2.0\03star enigma.dll
+D:\Code\TechModule January 2018\exam\exam\03star enigma\bin\Debug\netcoreapp2.0\03star enigma.pdb
+D:\Code\TechModule January 2018\exam\exam\03star enigma\obj\Debug\netcoreapp2.0\03star enigma.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\exam\exam\03star enigma\obj\Debug\netcoreapp2.0\03star enigma.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\exam\exam\03star enigma\obj\Debug\netcoreapp2.0\03star enigma.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\exam\exam\03star enigma\obj\Debug\netcoreapp2.0\03star enigma.AssemblyInfo.cs
+D:\Code\TechModule January 2018\exam\exam\03star enigma\obj\Debug\netcoreapp2.0\03star enigma.dll
+D:\Code\TechModule January 2018\exam\exam\03star enigma\obj\Debug\netcoreapp2.0\03star enigma.pdb

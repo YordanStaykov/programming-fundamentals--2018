@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\21.0 regex\Lab\03. Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\03. Match Hexadecimal Numbers.deps.json
+D:\Code\TechModule January 2018\21.0 regex\Lab\03. Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\03. Match Hexadecimal Numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\21.0 regex\Lab\03. Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\03. Match Hexadecimal Numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\21.0 regex\Lab\03. Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\03. Match Hexadecimal Numbers.dll
+D:\Code\TechModule January 2018\21.0 regex\Lab\03. Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\03. Match Hexadecimal Numbers.pdb
+D:\Code\TechModule January 2018\21.0 regex\Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\03. Match Hexadecimal Numbers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\21.0 regex\Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\03. Match Hexadecimal Numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\21.0 regex\Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\03. Match Hexadecimal Numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\21.0 regex\Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\03. Match Hexadecimal Numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\21.0 regex\Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\03. Match Hexadecimal Numbers.dll
+D:\Code\TechModule January 2018\21.0 regex\Lab\03. Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\03. Match Hexadecimal Numbers.pdb

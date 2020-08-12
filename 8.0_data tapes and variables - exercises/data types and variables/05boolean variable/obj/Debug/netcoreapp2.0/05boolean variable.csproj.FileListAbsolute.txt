@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\05boolean variable\bin\Debug\netcoreapp2.0\05boolean variable.deps.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\05boolean variable\bin\Debug\netcoreapp2.0\05boolean variable.runtimeconfig.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\05boolean variable\bin\Debug\netcoreapp2.0\05boolean variable.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\05boolean variable\bin\Debug\netcoreapp2.0\05boolean variable.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\05boolean variable\bin\Debug\netcoreapp2.0\05boolean variable.pdb
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\05boolean variable\obj\Debug\netcoreapp2.0\05boolean variable.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\05boolean variable\obj\Debug\netcoreapp2.0\05boolean variable.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\05boolean variable\obj\Debug\netcoreapp2.0\05boolean variable.AssemblyInfo.cs
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\05boolean variable\obj\Debug\netcoreapp2.0\05boolean variable.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\05boolean variable\obj\Debug\netcoreapp2.0\05boolean variable.pdb

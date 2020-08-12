@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\04draw a filled square\bin\Debug\netcoreapp2.0\04draw a filled square.deps.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\04draw a filled square\bin\Debug\netcoreapp2.0\04draw a filled square.runtimeconfig.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\04draw a filled square\bin\Debug\netcoreapp2.0\04draw a filled square.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\04draw a filled square\bin\Debug\netcoreapp2.0\04draw a filled square.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\04draw a filled square\bin\Debug\netcoreapp2.0\04draw a filled square.pdb
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\04draw a filled square\obj\Debug\netcoreapp2.0\04draw a filled square.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\04draw a filled square\obj\Debug\netcoreapp2.0\04draw a filled square.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\04draw a filled square\obj\Debug\netcoreapp2.0\04draw a filled square.AssemblyInfo.cs
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\04draw a filled square\obj\Debug\netcoreapp2.0\04draw a filled square.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\04draw a filled square\obj\Debug\netcoreapp2.0\04draw a filled square.pdb

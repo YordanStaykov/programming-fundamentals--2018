@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\05fibonacci numbers\bin\Debug\netcoreapp2.0\05fibonacci numbers.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\05fibonacci numbers\bin\Debug\netcoreapp2.0\05fibonacci numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\05fibonacci numbers\bin\Debug\netcoreapp2.0\05fibonacci numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\05fibonacci numbers\bin\Debug\netcoreapp2.0\05fibonacci numbers.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\05fibonacci numbers\bin\Debug\netcoreapp2.0\05fibonacci numbers.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\05fibonacci numbers\obj\Debug\netcoreapp2.0\05fibonacci numbers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\05fibonacci numbers\obj\Debug\netcoreapp2.0\05fibonacci numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\05fibonacci numbers\obj\Debug\netcoreapp2.0\05fibonacci numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\05fibonacci numbers\obj\Debug\netcoreapp2.0\05fibonacci numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\05fibonacci numbers\obj\Debug\netcoreapp2.0\05fibonacci numbers.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\05fibonacci numbers\obj\Debug\netcoreapp2.0\05fibonacci numbers.pdb

@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\5. Short Words Sorted\bin\Debug\netcoreapp2.0\05. Short Words Sorted.deps.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\5. Short Words Sorted\bin\Debug\netcoreapp2.0\05. Short Words Sorted.runtimeconfig.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\5. Short Words Sorted\bin\Debug\netcoreapp2.0\05. Short Words Sorted.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\5. Short Words Sorted\bin\Debug\netcoreapp2.0\05. Short Words Sorted.dll
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\5. Short Words Sorted\bin\Debug\netcoreapp2.0\05. Short Words Sorted.pdb
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\5. Short Words Sorted\obj\Debug\netcoreapp2.0\05. Short Words Sorted.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\5. Short Words Sorted\obj\Debug\netcoreapp2.0\05. Short Words Sorted.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\5. Short Words Sorted\obj\Debug\netcoreapp2.0\05. Short Words Sorted.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\5. Short Words Sorted\obj\Debug\netcoreapp2.0\05. Short Words Sorted.AssemblyInfo.cs
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\5. Short Words Sorted\obj\Debug\netcoreapp2.0\05. Short Words Sorted.dll
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\5. Short Words Sorted\obj\Debug\netcoreapp2.0\05. Short Words Sorted.pdb

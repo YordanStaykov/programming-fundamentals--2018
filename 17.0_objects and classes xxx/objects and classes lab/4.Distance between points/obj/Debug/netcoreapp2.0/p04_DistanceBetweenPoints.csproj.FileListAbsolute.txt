@@ -1,0 +1,11 @@
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\4.Distance between points\bin\Debug\netcoreapp2.0\p04_DistanceBetweenPoints.deps.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\4.Distance between points\bin\Debug\netcoreapp2.0\p04_DistanceBetweenPoints.runtimeconfig.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\4.Distance between points\bin\Debug\netcoreapp2.0\p04_DistanceBetweenPoints.runtimeconfig.dev.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\4.Distance between points\bin\Debug\netcoreapp2.0\p04_DistanceBetweenPoints.dll
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\4.Distance between points\bin\Debug\netcoreapp2.0\p04_DistanceBetweenPoints.pdb
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\4.Distance between points\obj\Debug\netcoreapp2.0\p04_DistanceBetweenPoints.csproj.CoreCompileInputs.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\4.Distance between points\obj\Debug\netcoreapp2.0\p04_DistanceBetweenPoints.AssemblyInfoInputs.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\4.Distance between points\obj\Debug\netcoreapp2.0\p04_DistanceBetweenPoints.AssemblyInfo.cs
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\4.Distance between points\obj\Debug\netcoreapp2.0\p04_DistanceBetweenPoints.dll
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\4.Distance between points\obj\Debug\netcoreapp2.0\p04_DistanceBetweenPoints.pdb
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\4.Distance between points\obj\Debug\netcoreapp2.0\p04_DistanceBetweenPoints.csprojResolveAssemblyReference.cache

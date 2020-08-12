@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.deps.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.runtimeconfig.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.dll
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.pdb
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.AssemblyInfo.cs
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.dll
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.pdb

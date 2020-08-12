@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\13.0_lists\Lab\4. Split by Word Casing\obj\Debug\netcoreapp2.0\4. Split by Word Casing.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\13.0_lists\Lab\4. Split by Word Casing\obj\Debug\netcoreapp2.0\4. Split by Word Casing.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\13.0_lists\Lab\4. Split by Word Casing\obj\Debug\netcoreapp2.0\4. Split by Word Casing.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\13.0_lists\Lab\4. Split by Word Casing\obj\Debug\netcoreapp2.0\4. Split by Word Casing.AssemblyInfo.cs
+D:\Code\TechModule January 2018\13.0_lists\Lab\4. Split by Word Casing\bin\Debug\netcoreapp2.0\4. Split by Word Casing.deps.json
+D:\Code\TechModule January 2018\13.0_lists\Lab\4. Split by Word Casing\bin\Debug\netcoreapp2.0\4. Split by Word Casing.runtimeconfig.json
+D:\Code\TechModule January 2018\13.0_lists\Lab\4. Split by Word Casing\bin\Debug\netcoreapp2.0\4. Split by Word Casing.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\13.0_lists\Lab\4. Split by Word Casing\bin\Debug\netcoreapp2.0\4. Split by Word Casing.dll
+D:\Code\TechModule January 2018\13.0_lists\Lab\4. Split by Word Casing\bin\Debug\netcoreapp2.0\4. Split by Word Casing.pdb
+D:\Code\TechModule January 2018\13.0_lists\Lab\4. Split by Word Casing\obj\Debug\netcoreapp2.0\4. Split by Word Casing.dll
+D:\Code\TechModule January 2018\13.0_lists\Lab\4. Split by Word Casing\obj\Debug\netcoreapp2.0\4. Split by Word Casing.pdb

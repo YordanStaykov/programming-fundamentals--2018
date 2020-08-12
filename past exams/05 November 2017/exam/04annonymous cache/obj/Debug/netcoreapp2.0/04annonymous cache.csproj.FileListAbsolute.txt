@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\04annonymous cache\bin\Debug\netcoreapp2.0\04annonymous cache.deps.json
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\04annonymous cache\bin\Debug\netcoreapp2.0\04annonymous cache.runtimeconfig.json
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\04annonymous cache\bin\Debug\netcoreapp2.0\04annonymous cache.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\04annonymous cache\bin\Debug\netcoreapp2.0\04annonymous cache.dll
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\04annonymous cache\bin\Debug\netcoreapp2.0\04annonymous cache.pdb
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\04annonymous cache\obj\Debug\netcoreapp2.0\04annonymous cache.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\04annonymous cache\obj\Debug\netcoreapp2.0\04annonymous cache.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\04annonymous cache\obj\Debug\netcoreapp2.0\04annonymous cache.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\04annonymous cache\obj\Debug\netcoreapp2.0\04annonymous cache.AssemblyInfo.cs
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\04annonymous cache\obj\Debug\netcoreapp2.0\04annonymous cache.dll
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\04annonymous cache\obj\Debug\netcoreapp2.0\04annonymous cache.pdb

@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\01christmas tree\bin\Debug\netcoreapp2.0\01christmas tree.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\01christmas tree\bin\Debug\netcoreapp2.0\01christmas tree.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\01christmas tree\bin\Debug\netcoreapp2.0\01christmas tree.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\01christmas tree\bin\Debug\netcoreapp2.0\01christmas tree.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\01christmas tree\bin\Debug\netcoreapp2.0\01christmas tree.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\01christmas tree\obj\Debug\netcoreapp2.0\01christmas tree.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\01christmas tree\obj\Debug\netcoreapp2.0\01christmas tree.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\01christmas tree\obj\Debug\netcoreapp2.0\01christmas tree.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\01christmas tree\obj\Debug\netcoreapp2.0\01christmas tree.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\01christmas tree\obj\Debug\netcoreapp2.0\01christmas tree.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\01christmas tree\obj\Debug\netcoreapp2.0\01christmas tree.pdb

@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\06theatre promotion\bin\Debug\netcoreapp2.0\06theatre promotion.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\06theatre promotion\bin\Debug\netcoreapp2.0\06theatre promotion.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\06theatre promotion\bin\Debug\netcoreapp2.0\06theatre promotion.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\06theatre promotion\bin\Debug\netcoreapp2.0\06theatre promotion.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\06theatre promotion\bin\Debug\netcoreapp2.0\06theatre promotion.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\06theatre promotion\obj\Debug\netcoreapp2.0\06theatre promotion.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\06theatre promotion\obj\Debug\netcoreapp2.0\06theatre promotion.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\06theatre promotion\obj\Debug\netcoreapp2.0\06theatre promotion.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\06theatre promotion\obj\Debug\netcoreapp2.0\06theatre promotion.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\06theatre promotion\obj\Debug\netcoreapp2.0\06theatre promotion.pdb

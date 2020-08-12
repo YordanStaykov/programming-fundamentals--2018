@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\11.0_arrays\Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp2.0\06. Reverse Array of Strings.deps.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp2.0\06. Reverse Array of Strings.runtimeconfig.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp2.0\06. Reverse Array of Strings.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp2.0\06. Reverse Array of Strings.dll
+D:\Code\TechModule January 2018\11.0_arrays\Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp2.0\06. Reverse Array of Strings.pdb
+D:\Code\TechModule January 2018\11.0_arrays\Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp2.0\06. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\11.0_arrays\Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp2.0\06. Reverse Array of Strings.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\11.0_arrays\Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp2.0\06. Reverse Array of Strings.AssemblyInfo.cs
+D:\Code\TechModule January 2018\11.0_arrays\Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp2.0\06. Reverse Array of Strings.dll
+D:\Code\TechModule January 2018\11.0_arrays\Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp2.0\06. Reverse Array of Strings.pdb

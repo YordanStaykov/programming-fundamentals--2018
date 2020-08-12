@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\05special number\bin\Debug\netcoreapp2.0\05special number.deps.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\05special number\bin\Debug\netcoreapp2.0\05special number.runtimeconfig.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\05special number\bin\Debug\netcoreapp2.0\05special number.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\05special number\bin\Debug\netcoreapp2.0\05special number.dll
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\05special number\bin\Debug\netcoreapp2.0\05special number.pdb
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\05special number\obj\Debug\netcoreapp2.0\05special number.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\05special number\obj\Debug\netcoreapp2.0\05special number.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\05special number\obj\Debug\netcoreapp2.0\05special number.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\05special number\obj\Debug\netcoreapp2.0\05special number.AssemblyInfo.cs
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\05special number\obj\Debug\netcoreapp2.0\05special number.dll
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\05special number\obj\Debug\netcoreapp2.0\05special number.pdb

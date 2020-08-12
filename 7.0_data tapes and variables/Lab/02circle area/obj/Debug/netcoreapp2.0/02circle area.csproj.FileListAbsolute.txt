@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\02circle area\bin\Debug\netcoreapp2.0\02circle area.deps.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\02circle area\bin\Debug\netcoreapp2.0\02circle area.runtimeconfig.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\02circle area\bin\Debug\netcoreapp2.0\02circle area.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\02circle area\bin\Debug\netcoreapp2.0\02circle area.dll
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\02circle area\bin\Debug\netcoreapp2.0\02circle area.pdb
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\02circle area\obj\Debug\netcoreapp2.0\02circle area.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\02circle area\obj\Debug\netcoreapp2.0\02circle area.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\02circle area\obj\Debug\netcoreapp2.0\02circle area.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\02circle area\obj\Debug\netcoreapp2.0\02circle area.AssemblyInfo.cs
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\02circle area\obj\Debug\netcoreapp2.0\02circle area.dll
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\02circle area\obj\Debug\netcoreapp2.0\02circle area.pdb

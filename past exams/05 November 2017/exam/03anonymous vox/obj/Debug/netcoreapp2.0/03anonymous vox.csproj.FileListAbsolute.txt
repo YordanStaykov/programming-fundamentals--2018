@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\03anonymous vox\bin\Debug\netcoreapp2.0\03anonymous vox.deps.json
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\03anonymous vox\bin\Debug\netcoreapp2.0\03anonymous vox.runtimeconfig.json
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\03anonymous vox\bin\Debug\netcoreapp2.0\03anonymous vox.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\03anonymous vox\bin\Debug\netcoreapp2.0\03anonymous vox.dll
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\03anonymous vox\bin\Debug\netcoreapp2.0\03anonymous vox.pdb
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\03anonymous vox\obj\Debug\netcoreapp2.0\03anonymous vox.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\03anonymous vox\obj\Debug\netcoreapp2.0\03anonymous vox.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\03anonymous vox\obj\Debug\netcoreapp2.0\03anonymous vox.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\03anonymous vox\obj\Debug\netcoreapp2.0\03anonymous vox.AssemblyInfo.cs
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\03anonymous vox\obj\Debug\netcoreapp2.0\03anonymous vox.dll
+D:\Code\TechModule January 2018\past exams\05 November 2017\exam\03anonymous vox\obj\Debug\netcoreapp2.0\03anonymous vox.pdb

@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\04.winning ticket\bin\Debug\netcoreapp2.0\04.winning ticket.deps.json
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\04.winning ticket\bin\Debug\netcoreapp2.0\04.winning ticket.runtimeconfig.json
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\04.winning ticket\bin\Debug\netcoreapp2.0\04.winning ticket.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\04.winning ticket\bin\Debug\netcoreapp2.0\04.winning ticket.dll
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\04.winning ticket\bin\Debug\netcoreapp2.0\04.winning ticket.pdb
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\04.winning ticket\obj\Debug\netcoreapp2.0\04.winning ticket.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\04.winning ticket\obj\Debug\netcoreapp2.0\04.winning ticket.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\04.winning ticket\obj\Debug\netcoreapp2.0\04.winning ticket.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\04.winning ticket\obj\Debug\netcoreapp2.0\04.winning ticket.AssemblyInfo.cs
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\04.winning ticket\obj\Debug\netcoreapp2.0\04.winning ticket.dll
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\04.winning ticket\obj\Debug\netcoreapp2.0\04.winning ticket.pdb

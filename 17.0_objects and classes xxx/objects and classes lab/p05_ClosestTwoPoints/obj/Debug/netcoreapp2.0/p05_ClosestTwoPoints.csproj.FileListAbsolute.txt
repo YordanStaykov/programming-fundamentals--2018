@@ -1,0 +1,11 @@
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\p05_ClosestTwoPoints\bin\Debug\netcoreapp2.0\p05_ClosestTwoPoints.deps.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\p05_ClosestTwoPoints\bin\Debug\netcoreapp2.0\p05_ClosestTwoPoints.runtimeconfig.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\p05_ClosestTwoPoints\bin\Debug\netcoreapp2.0\p05_ClosestTwoPoints.runtimeconfig.dev.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\p05_ClosestTwoPoints\bin\Debug\netcoreapp2.0\p05_ClosestTwoPoints.dll
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\p05_ClosestTwoPoints\bin\Debug\netcoreapp2.0\p05_ClosestTwoPoints.pdb
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\p05_ClosestTwoPoints\obj\Debug\netcoreapp2.0\p05_ClosestTwoPoints.csprojResolveAssemblyReference.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\p05_ClosestTwoPoints\obj\Debug\netcoreapp2.0\p05_ClosestTwoPoints.csproj.CoreCompileInputs.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\p05_ClosestTwoPoints\obj\Debug\netcoreapp2.0\p05_ClosestTwoPoints.AssemblyInfoInputs.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\p05_ClosestTwoPoints\obj\Debug\netcoreapp2.0\p05_ClosestTwoPoints.AssemblyInfo.cs
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\p05_ClosestTwoPoints\obj\Debug\netcoreapp2.0\p05_ClosestTwoPoints.dll
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\p05_ClosestTwoPoints\obj\Debug\netcoreapp2.0\p05_ClosestTwoPoints.pdb

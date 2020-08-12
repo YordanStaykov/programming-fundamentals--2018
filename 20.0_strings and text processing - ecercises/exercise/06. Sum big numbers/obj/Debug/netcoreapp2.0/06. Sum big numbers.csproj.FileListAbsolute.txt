@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.deps.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.dll
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.pdb
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.dll
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.pdb

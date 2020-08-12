@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\05diamond\bin\Debug\netcoreapp2.0\05diamond.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\05diamond\bin\Debug\netcoreapp2.0\05diamond.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\05diamond\bin\Debug\netcoreapp2.0\05diamond.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\05diamond\bin\Debug\netcoreapp2.0\05diamond.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\05diamond\bin\Debug\netcoreapp2.0\05diamond.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\05diamond\obj\Debug\netcoreapp2.0\05diamond.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\05diamond\obj\Debug\netcoreapp2.0\05diamond.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\05diamond\obj\Debug\netcoreapp2.0\05diamond.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\05diamond\obj\Debug\netcoreapp2.0\05diamond.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\05diamond\obj\Debug\netcoreapp2.0\05diamond.pdb

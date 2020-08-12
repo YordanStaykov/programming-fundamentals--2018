@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\02addTwoNumbers\bin\Debug\netcoreapp2.0\02addTwoNumbers.deps.json
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\02addTwoNumbers\bin\Debug\netcoreapp2.0\02addTwoNumbers.runtimeconfig.json
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\02addTwoNumbers\bin\Debug\netcoreapp2.0\02addTwoNumbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\02addTwoNumbers\bin\Debug\netcoreapp2.0\02addTwoNumbers.dll
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\02addTwoNumbers\bin\Debug\netcoreapp2.0\02addTwoNumbers.pdb
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\02addTwoNumbers\obj\Debug\netcoreapp2.0\02addTwoNumbers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\02addTwoNumbers\obj\Debug\netcoreapp2.0\02addTwoNumbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\02addTwoNumbers\obj\Debug\netcoreapp2.0\02addTwoNumbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\02addTwoNumbers\obj\Debug\netcoreapp2.0\02addTwoNumbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\02addTwoNumbers\obj\Debug\netcoreapp2.0\02addTwoNumbers.dll
+D:\Code\TechModule January 2018\3.0_c# intro and basic introduction\lab\02addTwoNumbers\obj\Debug\netcoreapp2.0\02addTwoNumbers.pdb

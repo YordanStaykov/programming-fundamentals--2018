@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\03restaurant discount\bin\Debug\netcoreapp2.0\03restaurant discount.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\03restaurant discount\bin\Debug\netcoreapp2.0\03restaurant discount.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\03restaurant discount\bin\Debug\netcoreapp2.0\03restaurant discount.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\03restaurant discount\bin\Debug\netcoreapp2.0\03restaurant discount.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\03restaurant discount\bin\Debug\netcoreapp2.0\03restaurant discount.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\03restaurant discount\obj\Debug\netcoreapp2.0\03restaurant discount.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\03restaurant discount\obj\Debug\netcoreapp2.0\03restaurant discount.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\03restaurant discount\obj\Debug\netcoreapp2.0\03restaurant discount.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\03restaurant discount\obj\Debug\netcoreapp2.0\03restaurant discount.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\03restaurant discount\obj\Debug\netcoreapp2.0\03restaurant discount.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\03restaurant discount\obj\Debug\netcoreapp2.0\03restaurant discount.pdb

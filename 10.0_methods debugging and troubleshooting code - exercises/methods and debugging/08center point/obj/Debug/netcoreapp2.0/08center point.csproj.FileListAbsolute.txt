@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\08center point\bin\Debug\netcoreapp2.0\08center point.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\08center point\bin\Debug\netcoreapp2.0\08center point.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\08center point\bin\Debug\netcoreapp2.0\08center point.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\08center point\bin\Debug\netcoreapp2.0\08center point.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\08center point\bin\Debug\netcoreapp2.0\08center point.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\08center point\obj\Debug\netcoreapp2.0\08center point.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\08center point\obj\Debug\netcoreapp2.0\08center point.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\08center point\obj\Debug\netcoreapp2.0\08center point.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\08center point\obj\Debug\netcoreapp2.0\08center point.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\08center point\obj\Debug\netcoreapp2.0\08center point.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\methods and debugging\08center point\obj\Debug\netcoreapp2.0\08center point.pdb

@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.deps.json
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.runtimeconfig.json
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.dll
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.pdb
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.AssemblyInfo.cs
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.dll
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.pdb

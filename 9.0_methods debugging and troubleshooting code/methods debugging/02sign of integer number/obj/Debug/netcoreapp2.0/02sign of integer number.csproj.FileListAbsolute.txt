@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\02sign of integer number\bin\Debug\netcoreapp2.0\02sign of integer number.deps.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\02sign of integer number\bin\Debug\netcoreapp2.0\02sign of integer number.runtimeconfig.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\02sign of integer number\bin\Debug\netcoreapp2.0\02sign of integer number.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\02sign of integer number\bin\Debug\netcoreapp2.0\02sign of integer number.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\02sign of integer number\bin\Debug\netcoreapp2.0\02sign of integer number.pdb
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\02sign of integer number\obj\Debug\netcoreapp2.0\02sign of integer number.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\02sign of integer number\obj\Debug\netcoreapp2.0\02sign of integer number.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\02sign of integer number\obj\Debug\netcoreapp2.0\02sign of integer number.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\02sign of integer number\obj\Debug\netcoreapp2.0\02sign of integer number.AssemblyInfo.cs
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\02sign of integer number\obj\Debug\netcoreapp2.0\02sign of integer number.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\02sign of integer number\obj\Debug\netcoreapp2.0\02sign of integer number.pdb

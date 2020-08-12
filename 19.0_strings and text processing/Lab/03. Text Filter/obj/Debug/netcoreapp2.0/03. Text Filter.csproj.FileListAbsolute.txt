@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\03. Text Filter\bin\Debug\netcoreapp2.0\03. Text Filter.deps.json
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\03. Text Filter\bin\Debug\netcoreapp2.0\03. Text Filter.runtimeconfig.json
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\03. Text Filter\bin\Debug\netcoreapp2.0\03. Text Filter.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\03. Text Filter\bin\Debug\netcoreapp2.0\03. Text Filter.dll
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\03. Text Filter\bin\Debug\netcoreapp2.0\03. Text Filter.pdb
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\03. Text Filter\obj\Debug\netcoreapp2.0\03. Text Filter.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\03. Text Filter\obj\Debug\netcoreapp2.0\03. Text Filter.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\03. Text Filter\obj\Debug\netcoreapp2.0\03. Text Filter.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\03. Text Filter\obj\Debug\netcoreapp2.0\03. Text Filter.AssemblyInfo.cs
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\03. Text Filter\obj\Debug\netcoreapp2.0\03. Text Filter.dll
+D:\Code\TechModule January 2018\19.0_strings and text processing\Lab\03. Text Filter\obj\Debug\netcoreapp2.0\03. Text Filter.pdb

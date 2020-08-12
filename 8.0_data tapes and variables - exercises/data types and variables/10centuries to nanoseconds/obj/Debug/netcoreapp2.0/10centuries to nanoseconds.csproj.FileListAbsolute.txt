@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\10centuries to nanoseconds\bin\Debug\netcoreapp2.0\10centuries to nanoseconds.deps.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\10centuries to nanoseconds\bin\Debug\netcoreapp2.0\10centuries to nanoseconds.runtimeconfig.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\10centuries to nanoseconds\bin\Debug\netcoreapp2.0\10centuries to nanoseconds.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\10centuries to nanoseconds\bin\Debug\netcoreapp2.0\10centuries to nanoseconds.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\10centuries to nanoseconds\bin\Debug\netcoreapp2.0\10centuries to nanoseconds.pdb
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\10centuries to nanoseconds\obj\Debug\netcoreapp2.0\10centuries to nanoseconds.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\10centuries to nanoseconds\obj\Debug\netcoreapp2.0\10centuries to nanoseconds.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\10centuries to nanoseconds\obj\Debug\netcoreapp2.0\10centuries to nanoseconds.AssemblyInfo.cs
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\10centuries to nanoseconds\obj\Debug\netcoreapp2.0\10centuries to nanoseconds.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\10centuries to nanoseconds\obj\Debug\netcoreapp2.0\10centuries to nanoseconds.pdb

@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\06. Fold and Sum\bin\Debug\netcoreapp2.0\06. Fold and Sum.deps.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\06. Fold and Sum\bin\Debug\netcoreapp2.0\06. Fold and Sum.runtimeconfig.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\06. Fold and Sum\bin\Debug\netcoreapp2.0\06. Fold and Sum.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\06. Fold and Sum\bin\Debug\netcoreapp2.0\06. Fold and Sum.dll
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\06. Fold and Sum\bin\Debug\netcoreapp2.0\06. Fold and Sum.pdb
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\06. Fold and Sum\obj\Debug\netcoreapp2.0\06. Fold and Sum.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\06. Fold and Sum\obj\Debug\netcoreapp2.0\06. Fold and Sum.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\06. Fold and Sum\obj\Debug\netcoreapp2.0\06. Fold and Sum.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\06. Fold and Sum\obj\Debug\netcoreapp2.0\06. Fold and Sum.AssemblyInfo.cs
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\06. Fold and Sum\obj\Debug\netcoreapp2.0\06. Fold and Sum.dll
+D:\Code\TechModule January 2018\15.0_dictionaries, lambda, linq\Lab\06. Fold and Sum\obj\Debug\netcoreapp2.0\06. Fold and Sum.pdb

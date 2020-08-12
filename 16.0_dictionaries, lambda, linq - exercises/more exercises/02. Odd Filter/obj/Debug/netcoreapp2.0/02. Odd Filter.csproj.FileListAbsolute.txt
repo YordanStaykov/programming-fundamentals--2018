@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\02. Odd Filter\bin\Debug\netcoreapp2.0\02. Odd Filter.deps.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\02. Odd Filter\bin\Debug\netcoreapp2.0\02. Odd Filter.runtimeconfig.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\02. Odd Filter\bin\Debug\netcoreapp2.0\02. Odd Filter.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\02. Odd Filter\bin\Debug\netcoreapp2.0\02. Odd Filter.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\02. Odd Filter\bin\Debug\netcoreapp2.0\02. Odd Filter.pdb
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\02. Odd Filter\obj\Debug\netcoreapp2.0\02. Odd Filter.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\02. Odd Filter\obj\Debug\netcoreapp2.0\02. Odd Filter.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\02. Odd Filter\obj\Debug\netcoreapp2.0\02. Odd Filter.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\02. Odd Filter\obj\Debug\netcoreapp2.0\02. Odd Filter.AssemblyInfo.cs
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\02. Odd Filter\obj\Debug\netcoreapp2.0\02. Odd Filter.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\02. Odd Filter\obj\Debug\netcoreapp2.0\02. Odd Filter.pdb

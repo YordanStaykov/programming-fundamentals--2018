@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\02butterfly\bin\Debug\netcoreapp2.0\02butterfly.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\02butterfly\bin\Debug\netcoreapp2.0\02butterfly.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\02butterfly\bin\Debug\netcoreapp2.0\02butterfly.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\02butterfly\bin\Debug\netcoreapp2.0\02butterfly.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\02butterfly\bin\Debug\netcoreapp2.0\02butterfly.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\02butterfly\obj\Debug\netcoreapp2.0\02butterfly.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\02butterfly\obj\Debug\netcoreapp2.0\02butterfly.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\02butterfly\obj\Debug\netcoreapp2.0\02butterfly.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\02butterfly\obj\Debug\netcoreapp2.0\02butterfly.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\02butterfly\obj\Debug\netcoreapp2.0\02butterfly.pdb

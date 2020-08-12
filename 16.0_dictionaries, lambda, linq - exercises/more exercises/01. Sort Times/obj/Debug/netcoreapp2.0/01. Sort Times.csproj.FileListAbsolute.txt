@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\01. Sort Times\bin\Debug\netcoreapp2.0\01. Sort Times.deps.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\01. Sort Times\bin\Debug\netcoreapp2.0\01. Sort Times.runtimeconfig.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\01. Sort Times\bin\Debug\netcoreapp2.0\01. Sort Times.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\01. Sort Times\bin\Debug\netcoreapp2.0\01. Sort Times.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\01. Sort Times\bin\Debug\netcoreapp2.0\01. Sort Times.pdb
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\01. Sort Times\obj\Debug\netcoreapp2.0\01. Sort Times.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\01. Sort Times\obj\Debug\netcoreapp2.0\01. Sort Times.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\01. Sort Times\obj\Debug\netcoreapp2.0\01. Sort Times.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\01. Sort Times\obj\Debug\netcoreapp2.0\01. Sort Times.AssemblyInfo.cs
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\01. Sort Times\obj\Debug\netcoreapp2.0\01. Sort Times.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\more exercises\01. Sort Times\obj\Debug\netcoreapp2.0\01. Sort Times.pdb

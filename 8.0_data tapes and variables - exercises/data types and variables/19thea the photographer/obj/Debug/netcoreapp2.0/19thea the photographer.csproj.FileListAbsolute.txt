@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\19thea the photographer\bin\Debug\netcoreapp2.0\19thea the photographer.deps.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\19thea the photographer\bin\Debug\netcoreapp2.0\19thea the photographer.runtimeconfig.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\19thea the photographer\bin\Debug\netcoreapp2.0\19thea the photographer.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\19thea the photographer\bin\Debug\netcoreapp2.0\19thea the photographer.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\19thea the photographer\bin\Debug\netcoreapp2.0\19thea the photographer.pdb
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\19thea the photographer\obj\Debug\netcoreapp2.0\19thea the photographer.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\19thea the photographer\obj\Debug\netcoreapp2.0\19thea the photographer.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\19thea the photographer\obj\Debug\netcoreapp2.0\19thea the photographer.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\19thea the photographer\obj\Debug\netcoreapp2.0\19thea the photographer.AssemblyInfo.cs
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\19thea the photographer\obj\Debug\netcoreapp2.0\19thea the photographer.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\19thea the photographer\obj\Debug\netcoreapp2.0\19thea the photographer.pdb

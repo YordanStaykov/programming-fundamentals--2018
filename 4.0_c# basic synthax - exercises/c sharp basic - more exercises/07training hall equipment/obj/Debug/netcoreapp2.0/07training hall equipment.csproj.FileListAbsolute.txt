@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\07training hall equipment\bin\Debug\netcoreapp2.0\07training hall equipment.deps.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\07training hall equipment\bin\Debug\netcoreapp2.0\07training hall equipment.runtimeconfig.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\07training hall equipment\bin\Debug\netcoreapp2.0\07training hall equipment.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\07training hall equipment\bin\Debug\netcoreapp2.0\07training hall equipment.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\07training hall equipment\bin\Debug\netcoreapp2.0\07training hall equipment.pdb
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\07training hall equipment\obj\Debug\netcoreapp2.0\07training hall equipment.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\07training hall equipment\obj\Debug\netcoreapp2.0\07training hall equipment.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\07training hall equipment\obj\Debug\netcoreapp2.0\07training hall equipment.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\07training hall equipment\obj\Debug\netcoreapp2.0\07training hall equipment.AssemblyInfo.cs
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\07training hall equipment\obj\Debug\netcoreapp2.0\07training hall equipment.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\07training hall equipment\obj\Debug\netcoreapp2.0\07training hall equipment.pdb

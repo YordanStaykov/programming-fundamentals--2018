@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\05bpm counter\bin\Debug\netcoreapp2.0\05bpm counter.deps.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\05bpm counter\bin\Debug\netcoreapp2.0\05bpm counter.runtimeconfig.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\05bpm counter\bin\Debug\netcoreapp2.0\05bpm counter.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\05bpm counter\bin\Debug\netcoreapp2.0\05bpm counter.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\05bpm counter\bin\Debug\netcoreapp2.0\05bpm counter.pdb
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\05bpm counter\obj\Debug\netcoreapp2.0\05bpm counter.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\05bpm counter\obj\Debug\netcoreapp2.0\05bpm counter.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\05bpm counter\obj\Debug\netcoreapp2.0\05bpm counter.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\05bpm counter\obj\Debug\netcoreapp2.0\05bpm counter.AssemblyInfo.cs
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\05bpm counter\obj\Debug\netcoreapp2.0\05bpm counter.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\05bpm counter\obj\Debug\netcoreapp2.0\05bpm counter.pdb

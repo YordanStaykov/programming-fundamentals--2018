@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\07greeting\bin\Debug\netcoreapp2.0\07greeting.deps.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\07greeting\bin\Debug\netcoreapp2.0\07greeting.runtimeconfig.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\07greeting\bin\Debug\netcoreapp2.0\07greeting.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\07greeting\bin\Debug\netcoreapp2.0\07greeting.dll
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\07greeting\bin\Debug\netcoreapp2.0\07greeting.pdb
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\07greeting\obj\Debug\netcoreapp2.0\07greeting.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\07greeting\obj\Debug\netcoreapp2.0\07greeting.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\07greeting\obj\Debug\netcoreapp2.0\07greeting.AssemblyInfo.cs
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\07greeting\obj\Debug\netcoreapp2.0\07greeting.dll
+D:\Code\TechModule January 2018\7.0_data tapes and variables\Lab\07greeting\obj\Debug\netcoreapp2.0\07greeting.pdb

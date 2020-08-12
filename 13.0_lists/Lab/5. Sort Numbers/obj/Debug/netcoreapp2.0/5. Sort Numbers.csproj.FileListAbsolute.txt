@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\13.0_lists\Lab\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.deps.json
+D:\Code\TechModule January 2018\13.0_lists\Lab\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\13.0_lists\Lab\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\13.0_lists\Lab\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.dll
+D:\Code\TechModule January 2018\13.0_lists\Lab\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.pdb
+D:\Code\TechModule January 2018\13.0_lists\Lab\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\13.0_lists\Lab\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\13.0_lists\Lab\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\13.0_lists\Lab\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\13.0_lists\Lab\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.dll
+D:\Code\TechModule January 2018\13.0_lists\Lab\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.pdb

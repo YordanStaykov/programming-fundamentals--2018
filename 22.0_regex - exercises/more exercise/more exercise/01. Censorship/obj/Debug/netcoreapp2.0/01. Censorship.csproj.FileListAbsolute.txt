@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\01. Censorship\bin\Debug\netcoreapp2.0\01. Censorship.deps.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\01. Censorship\bin\Debug\netcoreapp2.0\01. Censorship.runtimeconfig.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\01. Censorship\bin\Debug\netcoreapp2.0\01. Censorship.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\01. Censorship\bin\Debug\netcoreapp2.0\01. Censorship.dll
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\01. Censorship\bin\Debug\netcoreapp2.0\01. Censorship.pdb
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\01. Censorship\obj\Debug\netcoreapp2.0\01. Censorship.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\01. Censorship\obj\Debug\netcoreapp2.0\01. Censorship.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\01. Censorship\obj\Debug\netcoreapp2.0\01. Censorship.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\01. Censorship\obj\Debug\netcoreapp2.0\01. Censorship.AssemblyInfo.cs
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\01. Censorship\obj\Debug\netcoreapp2.0\01. Censorship.dll
+D:\Code\TechModule January 2018\22.0_regex - exercises\more exercise\more exercise\01. Censorship\obj\Debug\netcoreapp2.0\01. Censorship.pdb

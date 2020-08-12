@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\03. Regexmon\bin\Debug\netcoreapp2.0\03. Regexmon.deps.json
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\03. Regexmon\bin\Debug\netcoreapp2.0\03. Regexmon.runtimeconfig.json
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\03. Regexmon\bin\Debug\netcoreapp2.0\03. Regexmon.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\03. Regexmon\bin\Debug\netcoreapp2.0\03. Regexmon.dll
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\03. Regexmon\bin\Debug\netcoreapp2.0\03. Regexmon.pdb
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\03. Regexmon\obj\Debug\netcoreapp2.0\03. Regexmon.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\03. Regexmon\obj\Debug\netcoreapp2.0\03. Regexmon.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\03. Regexmon\obj\Debug\netcoreapp2.0\03. Regexmon.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\03. Regexmon\obj\Debug\netcoreapp2.0\03. Regexmon.AssemblyInfo.cs
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\03. Regexmon\obj\Debug\netcoreapp2.0\03. Regexmon.dll
+D:\Code\TechModule January 2018\past exams\09 july 2017 Part II\part2\03. Regexmon\obj\Debug\netcoreapp2.0\03. Regexmon.pdb

@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\04variable in hex format\bin\Debug\netcoreapp2.0\04variable in hex format.deps.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\04variable in hex format\bin\Debug\netcoreapp2.0\04variable in hex format.runtimeconfig.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\04variable in hex format\bin\Debug\netcoreapp2.0\04variable in hex format.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\04variable in hex format\bin\Debug\netcoreapp2.0\04variable in hex format.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\04variable in hex format\bin\Debug\netcoreapp2.0\04variable in hex format.pdb
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\04variable in hex format\obj\Debug\netcoreapp2.0\04variable in hex format.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\04variable in hex format\obj\Debug\netcoreapp2.0\04variable in hex format.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\04variable in hex format\obj\Debug\netcoreapp2.0\04variable in hex format.AssemblyInfo.cs
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\04variable in hex format\obj\Debug\netcoreapp2.0\04variable in hex format.dll
+D:\Code\TechModule January 2018\8.0_data tapes and variables - exercises\data types and variables\04variable in hex format\obj\Debug\netcoreapp2.0\04variable in hex format.pdb

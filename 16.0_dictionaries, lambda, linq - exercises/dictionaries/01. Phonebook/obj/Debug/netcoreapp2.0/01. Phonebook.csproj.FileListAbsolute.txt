@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.deps.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.runtimeconfig.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.pdb
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.AssemblyInfo.cs
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.pdb

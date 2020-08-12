@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\03megapixels\bin\Debug\netcoreapp2.0\03megapixels.deps.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\03megapixels\bin\Debug\netcoreapp2.0\03megapixels.runtimeconfig.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\03megapixels\bin\Debug\netcoreapp2.0\03megapixels.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\03megapixels\bin\Debug\netcoreapp2.0\03megapixels.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\03megapixels\bin\Debug\netcoreapp2.0\03megapixels.pdb
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\03megapixels\obj\Debug\netcoreapp2.0\03megapixels.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\03megapixels\obj\Debug\netcoreapp2.0\03megapixels.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\03megapixels\obj\Debug\netcoreapp2.0\03megapixels.AssemblyInfo.cs
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\03megapixels\obj\Debug\netcoreapp2.0\03megapixels.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\03megapixels\obj\Debug\netcoreapp2.0\03megapixels.pdb

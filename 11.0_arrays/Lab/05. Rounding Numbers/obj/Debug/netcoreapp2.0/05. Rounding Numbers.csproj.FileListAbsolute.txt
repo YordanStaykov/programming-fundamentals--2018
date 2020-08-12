@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\11.0_arrays\Lab\05. Rounding Numbers\bin\Debug\netcoreapp2.0\05. Rounding Numbers.deps.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\05. Rounding Numbers\bin\Debug\netcoreapp2.0\05. Rounding Numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\05. Rounding Numbers\bin\Debug\netcoreapp2.0\05. Rounding Numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\05. Rounding Numbers\bin\Debug\netcoreapp2.0\05. Rounding Numbers.dll
+D:\Code\TechModule January 2018\11.0_arrays\Lab\05. Rounding Numbers\bin\Debug\netcoreapp2.0\05. Rounding Numbers.pdb
+D:\Code\TechModule January 2018\11.0_arrays\Lab\05. Rounding Numbers\obj\Debug\netcoreapp2.0\05. Rounding Numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\11.0_arrays\Lab\05. Rounding Numbers\obj\Debug\netcoreapp2.0\05. Rounding Numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\11.0_arrays\Lab\05. Rounding Numbers\obj\Debug\netcoreapp2.0\05. Rounding Numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\11.0_arrays\Lab\05. Rounding Numbers\obj\Debug\netcoreapp2.0\05. Rounding Numbers.dll
+D:\Code\TechModule January 2018\11.0_arrays\Lab\05. Rounding Numbers\obj\Debug\netcoreapp2.0\05. Rounding Numbers.pdb
+D:\Code\TechModule January 2018\11.0_arrays\Lab\05. Rounding Numbers\obj\Debug\netcoreapp2.0\05. Rounding Numbers.csprojResolveAssemblyReference.cache

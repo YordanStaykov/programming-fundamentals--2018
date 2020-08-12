@@ -1,0 +1,11 @@
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\3.Big Factorial\bin\Debug\netcoreapp2.0\3.Big Factorial.deps.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\3.Big Factorial\bin\Debug\netcoreapp2.0\3.Big Factorial.runtimeconfig.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\3.Big Factorial\bin\Debug\netcoreapp2.0\3.Big Factorial.runtimeconfig.dev.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\3.Big Factorial\bin\Debug\netcoreapp2.0\3.Big Factorial.dll
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\3.Big Factorial\bin\Debug\netcoreapp2.0\3.Big Factorial.pdb
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\3.Big Factorial\obj\Debug\netcoreapp2.0\3.Big Factorial.csprojResolveAssemblyReference.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\3.Big Factorial\obj\Debug\netcoreapp2.0\3.Big Factorial.csproj.CoreCompileInputs.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\3.Big Factorial\obj\Debug\netcoreapp2.0\3.Big Factorial.AssemblyInfoInputs.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\3.Big Factorial\obj\Debug\netcoreapp2.0\3.Big Factorial.AssemblyInfo.cs
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\3.Big Factorial\obj\Debug\netcoreapp2.0\3.Big Factorial.dll
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\3.Big Factorial\obj\Debug\netcoreapp2.0\3.Big Factorial.pdb

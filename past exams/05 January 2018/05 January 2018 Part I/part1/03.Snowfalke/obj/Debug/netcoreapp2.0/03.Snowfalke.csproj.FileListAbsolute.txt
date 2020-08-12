@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\03.Snowfalke\bin\Debug\netcoreapp2.0\03.Snowfalke.deps.json
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\03.Snowfalke\bin\Debug\netcoreapp2.0\03.Snowfalke.runtimeconfig.json
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\03.Snowfalke\bin\Debug\netcoreapp2.0\03.Snowfalke.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\03.Snowfalke\bin\Debug\netcoreapp2.0\03.Snowfalke.dll
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\03.Snowfalke\bin\Debug\netcoreapp2.0\03.Snowfalke.pdb
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\03.Snowfalke\obj\Debug\netcoreapp2.0\03.Snowfalke.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\03.Snowfalke\obj\Debug\netcoreapp2.0\03.Snowfalke.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\03.Snowfalke\obj\Debug\netcoreapp2.0\03.Snowfalke.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\03.Snowfalke\obj\Debug\netcoreapp2.0\03.Snowfalke.AssemblyInfo.cs
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\03.Snowfalke\obj\Debug\netcoreapp2.0\03.Snowfalke.dll
+D:\Code\TechModule January 2018\past exams\05 January 2018 Part I\part1\03.Snowfalke\obj\Debug\netcoreapp2.0\03.Snowfalke.pdb

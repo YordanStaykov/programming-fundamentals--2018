@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\02softUni Karaoke\bin\Debug\netcoreapp2.0\02softUni Karaoke.deps.json
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\02softUni Karaoke\bin\Debug\netcoreapp2.0\02softUni Karaoke.runtimeconfig.json
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\02softUni Karaoke\bin\Debug\netcoreapp2.0\02softUni Karaoke.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\02softUni Karaoke\bin\Debug\netcoreapp2.0\02softUni Karaoke.dll
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\02softUni Karaoke\bin\Debug\netcoreapp2.0\02softUni Karaoke.pdb
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\02softUni Karaoke\obj\Debug\netcoreapp2.0\02softUni Karaoke.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\02softUni Karaoke\obj\Debug\netcoreapp2.0\02softUni Karaoke.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\02softUni Karaoke\obj\Debug\netcoreapp2.0\02softUni Karaoke.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\02softUni Karaoke\obj\Debug\netcoreapp2.0\02softUni Karaoke.AssemblyInfo.cs
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\02softUni Karaoke\obj\Debug\netcoreapp2.0\02softUni Karaoke.dll
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\02softUni Karaoke\obj\Debug\netcoreapp2.0\02softUni Karaoke.pdb

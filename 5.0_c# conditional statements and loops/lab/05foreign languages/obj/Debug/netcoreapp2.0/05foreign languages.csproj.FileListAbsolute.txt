@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\05foreign languages\bin\Debug\netcoreapp2.0\05foreign languages.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\05foreign languages\bin\Debug\netcoreapp2.0\05foreign languages.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\05foreign languages\bin\Debug\netcoreapp2.0\05foreign languages.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\05foreign languages\bin\Debug\netcoreapp2.0\05foreign languages.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\05foreign languages\bin\Debug\netcoreapp2.0\05foreign languages.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\05foreign languages\obj\Debug\netcoreapp2.0\05foreign languages.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\05foreign languages\obj\Debug\netcoreapp2.0\05foreign languages.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\05foreign languages\obj\Debug\netcoreapp2.0\05foreign languages.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\05foreign languages\obj\Debug\netcoreapp2.0\05foreign languages.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\05foreign languages\obj\Debug\netcoreapp2.0\05foreign languages.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\lab\05foreign languages\obj\Debug\netcoreapp2.0\05foreign languages.pdb

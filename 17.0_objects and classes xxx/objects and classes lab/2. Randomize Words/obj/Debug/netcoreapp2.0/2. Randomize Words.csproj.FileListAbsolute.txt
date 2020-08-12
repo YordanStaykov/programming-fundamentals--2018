@@ -1,0 +1,11 @@
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\2. Randomize Words\bin\Debug\netcoreapp2.0\2. Randomize Words.deps.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\2. Randomize Words\bin\Debug\netcoreapp2.0\2. Randomize Words.runtimeconfig.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\2. Randomize Words\bin\Debug\netcoreapp2.0\2. Randomize Words.runtimeconfig.dev.json
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\2. Randomize Words\bin\Debug\netcoreapp2.0\2. Randomize Words.dll
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\2. Randomize Words\bin\Debug\netcoreapp2.0\2. Randomize Words.pdb
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\2. Randomize Words\obj\Debug\netcoreapp2.0\2. Randomize Words.csprojResolveAssemblyReference.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\2. Randomize Words\obj\Debug\netcoreapp2.0\2. Randomize Words.csproj.CoreCompileInputs.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\2. Randomize Words\obj\Debug\netcoreapp2.0\2. Randomize Words.AssemblyInfoInputs.cache
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\2. Randomize Words\obj\Debug\netcoreapp2.0\2. Randomize Words.AssemblyInfo.cs
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\2. Randomize Words\obj\Debug\netcoreapp2.0\2. Randomize Words.dll
+D:\Code\Programming-Fundamentals-2018\17.0_objects and classes xxx\objects and classes lab\2. Randomize Words\obj\Debug\netcoreapp2.0\2. Randomize Words.pdb

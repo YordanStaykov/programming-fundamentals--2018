@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\03.endurance race\bin\Debug\netcoreapp2.0\03.endurance race.deps.json
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\03.endurance race\bin\Debug\netcoreapp2.0\03.endurance race.runtimeconfig.json
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\03.endurance race\bin\Debug\netcoreapp2.0\03.endurance race.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\03.endurance race\bin\Debug\netcoreapp2.0\03.endurance race.dll
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\03.endurance race\bin\Debug\netcoreapp2.0\03.endurance race.pdb
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\03.endurance race\obj\Debug\netcoreapp2.0\03.endurance race.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\03.endurance race\obj\Debug\netcoreapp2.0\03.endurance race.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\03.endurance race\obj\Debug\netcoreapp2.0\03.endurance race.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\03.endurance race\obj\Debug\netcoreapp2.0\03.endurance race.AssemblyInfo.cs
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\03.endurance race\obj\Debug\netcoreapp2.0\03.endurance race.dll
+D:\Code\TechModule January 2018\past exams\exam preparation I\exam prep I\03.endurance race\obj\Debug\netcoreapp2.0\03.endurance race.pdb

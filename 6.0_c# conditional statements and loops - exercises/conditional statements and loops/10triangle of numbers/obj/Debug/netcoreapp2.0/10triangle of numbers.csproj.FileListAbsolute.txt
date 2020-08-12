@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\10triangle of numbers\bin\Debug\netcoreapp2.0\10triangle of numbers.deps.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\10triangle of numbers\bin\Debug\netcoreapp2.0\10triangle of numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\10triangle of numbers\bin\Debug\netcoreapp2.0\10triangle of numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\10triangle of numbers\bin\Debug\netcoreapp2.0\10triangle of numbers.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\10triangle of numbers\bin\Debug\netcoreapp2.0\10triangle of numbers.pdb
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\10triangle of numbers\obj\Debug\netcoreapp2.0\10triangle of numbers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\10triangle of numbers\obj\Debug\netcoreapp2.0\10triangle of numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\10triangle of numbers\obj\Debug\netcoreapp2.0\10triangle of numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\10triangle of numbers\obj\Debug\netcoreapp2.0\10triangle of numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\10triangle of numbers\obj\Debug\netcoreapp2.0\10triangle of numbers.dll
+D:\Code\TechModule January 2018\5.0_c# conditional statements and loops\conditional statements and loops\10triangle of numbers\obj\Debug\netcoreapp2.0\10triangle of numbers.pdb

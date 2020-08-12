@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\13.0_lists\Lab\7. Count Numbers\bin\Debug\netcoreapp2.0\7. Count Numbers.deps.json
+D:\Code\TechModule January 2018\13.0_lists\Lab\7. Count Numbers\bin\Debug\netcoreapp2.0\7. Count Numbers.runtimeconfig.json
+D:\Code\TechModule January 2018\13.0_lists\Lab\7. Count Numbers\bin\Debug\netcoreapp2.0\7. Count Numbers.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\13.0_lists\Lab\7. Count Numbers\bin\Debug\netcoreapp2.0\7. Count Numbers.dll
+D:\Code\TechModule January 2018\13.0_lists\Lab\7. Count Numbers\bin\Debug\netcoreapp2.0\7. Count Numbers.pdb
+D:\Code\TechModule January 2018\13.0_lists\Lab\7. Count Numbers\obj\Debug\netcoreapp2.0\7. Count Numbers.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\13.0_lists\Lab\7. Count Numbers\obj\Debug\netcoreapp2.0\7. Count Numbers.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\13.0_lists\Lab\7. Count Numbers\obj\Debug\netcoreapp2.0\7. Count Numbers.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\13.0_lists\Lab\7. Count Numbers\obj\Debug\netcoreapp2.0\7. Count Numbers.AssemblyInfo.cs
+D:\Code\TechModule January 2018\13.0_lists\Lab\7. Count Numbers\obj\Debug\netcoreapp2.0\7. Count Numbers.dll
+D:\Code\TechModule January 2018\13.0_lists\Lab\7. Count Numbers\obj\Debug\netcoreapp2.0\7. Count Numbers.pdb

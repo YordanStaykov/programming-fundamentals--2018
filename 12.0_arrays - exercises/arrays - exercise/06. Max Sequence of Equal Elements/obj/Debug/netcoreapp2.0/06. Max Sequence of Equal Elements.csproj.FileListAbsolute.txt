@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\06. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements.deps.json
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\06. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements.runtimeconfig.json
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\06. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\06. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements.dll
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\06. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements.pdb
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\06. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\06. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\06. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\06. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements.AssemblyInfo.cs
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\06. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements.dll
+D:\Code\TechModule January 2018\12.0_arrays - exercises\arrays - exercise\06. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements.pdb

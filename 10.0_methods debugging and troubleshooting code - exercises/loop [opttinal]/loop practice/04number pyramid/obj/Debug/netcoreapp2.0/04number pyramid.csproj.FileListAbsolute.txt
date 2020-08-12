@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\04number pyramid\bin\Debug\netcoreapp2.0\04number pyramid.deps.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\04number pyramid\bin\Debug\netcoreapp2.0\04number pyramid.runtimeconfig.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\04number pyramid\bin\Debug\netcoreapp2.0\04number pyramid.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\04number pyramid\bin\Debug\netcoreapp2.0\04number pyramid.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\04number pyramid\bin\Debug\netcoreapp2.0\04number pyramid.pdb
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\04number pyramid\obj\Debug\netcoreapp2.0\04number pyramid.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\04number pyramid\obj\Debug\netcoreapp2.0\04number pyramid.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\04number pyramid\obj\Debug\netcoreapp2.0\04number pyramid.AssemblyInfo.cs
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\04number pyramid\obj\Debug\netcoreapp2.0\04number pyramid.dll
+D:\Code\TechModule January 2018\10.0_methods debugging and troubleshooting code - exercises\loop [opttinal]\loop practice\04number pyramid\obj\Debug\netcoreapp2.0\04number pyramid.pdb

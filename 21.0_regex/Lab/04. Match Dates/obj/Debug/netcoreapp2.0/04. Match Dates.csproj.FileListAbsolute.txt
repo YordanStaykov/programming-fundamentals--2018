@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\21.0 regex\Lab\04. Match Dates\bin\Debug\netcoreapp2.0\04. Match Dates.deps.json
+D:\Code\TechModule January 2018\21.0 regex\Lab\04. Match Dates\bin\Debug\netcoreapp2.0\04. Match Dates.runtimeconfig.json
+D:\Code\TechModule January 2018\21.0 regex\Lab\04. Match Dates\bin\Debug\netcoreapp2.0\04. Match Dates.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\21.0 regex\Lab\04. Match Dates\bin\Debug\netcoreapp2.0\04. Match Dates.dll
+D:\Code\TechModule January 2018\21.0 regex\Lab\04. Match Dates\bin\Debug\netcoreapp2.0\04. Match Dates.pdb
+D:\Code\TechModule January 2018\21.0 regex\Lab\04. Match Dates\obj\Debug\netcoreapp2.0\04. Match Dates.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\21.0 regex\Lab\04. Match Dates\obj\Debug\netcoreapp2.0\04. Match Dates.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\21.0 regex\Lab\04. Match Dates\obj\Debug\netcoreapp2.0\04. Match Dates.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\21.0 regex\Lab\04. Match Dates\obj\Debug\netcoreapp2.0\04. Match Dates.AssemblyInfo.cs
+D:\Code\TechModule January 2018\21.0 regex\Lab\04. Match Dates\obj\Debug\netcoreapp2.0\04. Match Dates.dll
+D:\Code\TechModule January 2018\21.0 regex\Lab\04. Match Dates\obj\Debug\netcoreapp2.0\04. Match Dates.pdb

@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\07math power\obj\Debug\netcoreapp2.0\07math power.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\07math power\obj\Debug\netcoreapp2.0\07math power.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\07math power\obj\Debug\netcoreapp2.0\07math power.AssemblyInfo.cs
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\07math power\bin\Debug\netcoreapp2.0\07math power.deps.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\07math power\bin\Debug\netcoreapp2.0\07math power.runtimeconfig.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\07math power\bin\Debug\netcoreapp2.0\07math power.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\07math power\bin\Debug\netcoreapp2.0\07math power.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\07math power\bin\Debug\netcoreapp2.0\07math power.pdb
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\07math power\obj\Debug\netcoreapp2.0\07math power.dll
+D:\Code\TechModule January 2018\9.0_methods debugging and troubleshooting code\methods debugging\07math power\obj\Debug\netcoreapp2.0\07math power.pdb

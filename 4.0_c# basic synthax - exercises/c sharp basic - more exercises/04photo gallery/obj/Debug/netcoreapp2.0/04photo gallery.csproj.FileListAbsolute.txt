@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\04photo gallery\bin\Debug\netcoreapp2.0\04photo gallery.deps.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\04photo gallery\bin\Debug\netcoreapp2.0\04photo gallery.runtimeconfig.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\04photo gallery\bin\Debug\netcoreapp2.0\04photo gallery.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\04photo gallery\bin\Debug\netcoreapp2.0\04photo gallery.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\04photo gallery\bin\Debug\netcoreapp2.0\04photo gallery.pdb
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\04photo gallery\obj\Debug\netcoreapp2.0\04photo gallery.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\04photo gallery\obj\Debug\netcoreapp2.0\04photo gallery.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\04photo gallery\obj\Debug\netcoreapp2.0\04photo gallery.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\04photo gallery\obj\Debug\netcoreapp2.0\04photo gallery.AssemblyInfo.cs
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\04photo gallery\obj\Debug\netcoreapp2.0\04photo gallery.dll
+D:\Code\TechModule January 2018\4.0_c# basic synthax - exercises\c sharp basic - more exercises\04photo gallery\obj\Debug\netcoreapp2.0\04photo gallery.pdb

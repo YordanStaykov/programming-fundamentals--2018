@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.deps.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.runtimeconfig.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.dll
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.pdb
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.AssemblyInfo.cs
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.dll
+D:\Code\TechModule January 2018\20.0_strings and text processing - ecercises\exercise\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.pdb

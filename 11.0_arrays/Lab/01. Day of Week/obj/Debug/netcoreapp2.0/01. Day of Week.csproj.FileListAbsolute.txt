@@ -1,0 +1,22 @@
+D:\Code\TechModule January 2018\11.0_arrays\Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.deps.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.runtimeconfig.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\11.0_arrays\Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.dll
+D:\Code\TechModule January 2018\11.0_arrays\Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.pdb
+D:\Code\TechModule January 2018\11.0_arrays\Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\11.0_arrays\Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\11.0_arrays\Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\11.0_arrays\Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.AssemblyInfo.cs
+D:\Code\TechModule January 2018\11.0_arrays\Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.dll
+D:\Code\TechModule January 2018\11.0_arrays\Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.pdb
+D:\Code\Programming-Fundamentals-2018\11.0_arrays\Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.deps.json
+D:\Code\Programming-Fundamentals-2018\11.0_arrays\Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.runtimeconfig.json
+D:\Code\Programming-Fundamentals-2018\11.0_arrays\Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.runtimeconfig.dev.json
+D:\Code\Programming-Fundamentals-2018\11.0_arrays\Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.dll
+D:\Code\Programming-Fundamentals-2018\11.0_arrays\Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.pdb
+D:\Code\Programming-Fundamentals-2018\11.0_arrays\Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.csprojAssemblyReference.cache
+D:\Code\Programming-Fundamentals-2018\11.0_arrays\Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.csproj.CoreCompileInputs.cache
+D:\Code\Programming-Fundamentals-2018\11.0_arrays\Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.AssemblyInfoInputs.cache
+D:\Code\Programming-Fundamentals-2018\11.0_arrays\Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.AssemblyInfo.cs
+D:\Code\Programming-Fundamentals-2018\11.0_arrays\Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.dll
+D:\Code\Programming-Fundamentals-2018\11.0_arrays\Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.pdb

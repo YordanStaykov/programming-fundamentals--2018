@@ -1,0 +1,11 @@
+D:\Code\TechModule January 2018\21.0 regex\Lab\06. Replace a Tag\bin\Debug\netcoreapp2.0\06. Replace a Tag.deps.json
+D:\Code\TechModule January 2018\21.0 regex\Lab\06. Replace a Tag\bin\Debug\netcoreapp2.0\06. Replace a Tag.runtimeconfig.json
+D:\Code\TechModule January 2018\21.0 regex\Lab\06. Replace a Tag\bin\Debug\netcoreapp2.0\06. Replace a Tag.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\21.0 regex\Lab\06. Replace a Tag\bin\Debug\netcoreapp2.0\06. Replace a Tag.dll
+D:\Code\TechModule January 2018\21.0 regex\Lab\06. Replace a Tag\bin\Debug\netcoreapp2.0\06. Replace a Tag.pdb
+D:\Code\TechModule January 2018\21.0 regex\Lab\06. Replace a Tag\obj\Debug\netcoreapp2.0\06. Replace a Tag.csprojResolveAssemblyReference.cache
+D:\Code\TechModule January 2018\21.0 regex\Lab\06. Replace a Tag\obj\Debug\netcoreapp2.0\06. Replace a Tag.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\21.0 regex\Lab\06. Replace a Tag\obj\Debug\netcoreapp2.0\06. Replace a Tag.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\21.0 regex\Lab\06. Replace a Tag\obj\Debug\netcoreapp2.0\06. Replace a Tag.AssemblyInfo.cs
+D:\Code\TechModule January 2018\21.0 regex\Lab\06. Replace a Tag\obj\Debug\netcoreapp2.0\06. Replace a Tag.dll
+D:\Code\TechModule January 2018\21.0 regex\Lab\06. Replace a Tag\obj\Debug\netcoreapp2.0\06. Replace a Tag.pdb

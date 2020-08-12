@@ -1,0 +1,10 @@
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\04. Fix Emails\bin\Debug\netcoreapp2.0\04. Fix Emails.deps.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\04. Fix Emails\bin\Debug\netcoreapp2.0\04. Fix Emails.runtimeconfig.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\04. Fix Emails\bin\Debug\netcoreapp2.0\04. Fix Emails.runtimeconfig.dev.json
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\04. Fix Emails\bin\Debug\netcoreapp2.0\04. Fix Emails.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\04. Fix Emails\bin\Debug\netcoreapp2.0\04. Fix Emails.pdb
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\04. Fix Emails\obj\Debug\netcoreapp2.0\04. Fix Emails.csproj.CoreCompileInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\04. Fix Emails\obj\Debug\netcoreapp2.0\04. Fix Emails.AssemblyInfoInputs.cache
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\04. Fix Emails\obj\Debug\netcoreapp2.0\04. Fix Emails.AssemblyInfo.cs
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\04. Fix Emails\obj\Debug\netcoreapp2.0\04. Fix Emails.dll
+D:\Code\TechModule January 2018\16.0_dictionaries, lambda, linq - exercises\dictionaries\04. Fix Emails\obj\Debug\netcoreapp2.0\04. Fix Emails.pdb
